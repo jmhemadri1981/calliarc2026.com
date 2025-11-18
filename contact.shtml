@@ -24,7 +24,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="includes/includes/js/respond.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="includes/js/respond.js"></script><![endif]-->
 </head>
 
 <body class="hidden-bar-wrapper">
@@ -278,22 +278,22 @@
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-up"></span></div>
 
-<script src="includes/includes/js/jquery.js"></script>
-<script src="includes/includes/js/popper.min.js"></script>
-<script src="includes/includes/js/bootstrap.min.js"></script>
-<script src="includes/includes/js/jquery.mCustomScrollbar.concat.min.js"></script>
-<script src="includes/includes/js/jquery.fancybox.js"></script>
-<script src="includes/includes/js/appear.js"></script>
-<script src="includes/includes/js/parallax.min.js"></script>
-<script src="includes/includes/js/tilt.jquery.min.js"></script>
-<script src="includes/includes/js/jquery.paroller.min.js"></script>
-<script src="includes/includes/js/owl.js"></script>
-<script src="includes/includes/js/wow.js"></script>
-<script src="includes/includes/js/validate.js"></script>
-<script src="includes/includes/js/nav-tool.js"></script>
-<script src="includes/includes/js/jquery-ui.js"></script>
-<script src="includes/includes/js/script.js"></script>
-<script src="includes/includes/js/color-settings.js"></script>
+<script src="includes/js/jquery.js"></script>
+<script src="includes/js/popper.min.js"></script>
+<script src="includes/js/bootstrap.min.js"></script>
+<script src="includes/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="includes/js/jquery.fancybox.js"></script>
+<script src="includes/js/appear.js"></script>
+<script src="includes/js/parallax.min.js"></script>
+<script src="includes/js/tilt.jquery.min.js"></script>
+<script src="includes/js/jquery.paroller.min.js"></script>
+<script src="includes/js/owl.js"></script>
+<script src="includes/js/wow.js"></script>
+<script src="includes/js/validate.js"></script>
+<script src="includes/js/nav-tool.js"></script>
+<script src="includes/js/jquery-ui.js"></script>
+<script src="includes/js/script.js"></script>
+<script src="includes/js/color-settings.js"></script>
 
 </body>
 
