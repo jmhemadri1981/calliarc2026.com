@@ -776,7 +776,7 @@
 								With Us,</h6>
 							<!-- Appointment Form -->
 							<div class="appointment-form">
-								<form action="https://formsubmit.co/info@CalliArc.com" method="POST">
+								<form action="https://formsubmit.co/contact@calliarc.com" method="POST">
 									<div class="row clearfix">
 										<div class="col-lg-6 col-md-6 col-sm-12 form-group">
 											<input type="text" name="username" placeholder="Name" pattern="[a-zA-Z ]*"
