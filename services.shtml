@@ -42,7 +42,7 @@
     	<div class="auto-container">
 			<h2>Smart Services</h2>
 			<ul class="page-breadcrumb">
-				<li><a href="index.html">home</a></li>
+				<li><a href="index.shtml">home</a></li>
 				<li>Services</li>
 			</ul>
         </div>
@@ -448,7 +448,7 @@
 										<div class="col-lg-12 col-md-12 col-sm-12 form-group">
 											<button class="theme-btn btn-style-three" type="submit"
 												name="submit-form"><span class="txt">Send Message</span></button>
-												<input type="hidden" name="_next" value="https://CalliArc.com/index.html">
+												<input type="hidden" name="_next" value="https://CalliArc.com/index.shtml">
 										</div>
 									</div>
 								</form>

@@ -47,7 +47,7 @@
 					<div class="sidebar-info-contents">
 						<div class="content-inner">
 							<div class="logo">
-								<a href="index.html"><img src="includes/images/logo-2.webp" alt="CalliArc-logo" /></a>
+								<a href="index.shtml"><img src="includes/images/logo-2.webp" alt="CalliArc-logo" /></a>
 							</div>
 							<div class="content-box">
 								<h2>About Us</h2>
@@ -86,7 +86,7 @@
     	<div class="auto-container">
 			<h2>Solutions</h2>
 			<ul class="page-breadcrumb">
-				<li><a href="index.html">home</a></li>
+				<li><a href="index.shtml">home</a></li>
 				<li>Solutions</li>
 			</ul>
         </div>

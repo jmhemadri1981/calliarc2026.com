@@ -42,7 +42,7 @@
     	<div class="auto-container">
 			<h2>Contact us</h2>
 			<ul class="page-breadcrumb">
-				<li><a href="index.html">home</a></li>
+				<li><a href="index.shtml">home</a></li>
 				<li>Contact us</li>
 			</ul>
         </div>
@@ -94,7 +94,7 @@
 						
 						<div class="form-group text-center col-lg-12 col-md-12 col-sm-12">
 							<button class="theme-btn btn-style-three" type="submit" name="submit-form"><span class="txt">Send Now</span></button>
-							<input type="hidden" name="_next" value="https://CalliArc.com/index.html">
+							<input type="hidden" name="_next" value="https://CalliArc.com/index.shtml">
 						</div>
 						
 					</div>
@@ -201,7 +201,7 @@
 						<div class="footer-widget links-widget">
 							<h5>Quick Links</h5>
 							<ul class="list-link">
-								<li><a href="index.html">Home</a></li>
+								<li><a href="index.shtml">Home</a></li>
 								<li><a href="about.html">About Us</a></li>
 								<li><a href="hrms.html">Products</a></li>
 								<li><a href="services.html">Services</a></li>
@@ -223,7 +223,7 @@
 								<form action="https://formsubmit.co/contact@calliarc.com" method="POST" >
 									<div class="form-group">
 										<input type="email" name="email" placeholder="Email" required pattern="[a-zA-Z0-9._%+-]+@(?:[a-zA-Z0-9-]+\.)*(com|in|org|info|co|io)$" oninvalid="setCustomValidity('Please enter a valid email address with domain extensions .com, .in or .org')" oninput="setCustomValidity('')" />
-										<button type="submit" class="theme-btn">Subscribe Now <input type="hidden" name="_next" value="https://CalliArc.com/index.html"></button>
+										<button type="submit" class="theme-btn">Subscribe Now <input type="hidden" name="_next" value="https://CalliArc.com/index.shtml"></button>
 									</div>
 								</form>
 							</div>
