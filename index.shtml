@@ -690,75 +690,8 @@
 				</div>
 			</div>
 		</div>
-	</section>
-	<!-- End News Section -->
-	<!-- End News Section -->
-	<section class="appointment-section style-two">
-		<div class="image-layer" style="background-image: url(mages/background/4.webp.shtml); background: #1f4dfc"></div>
-		<div class="auto-container">
-			<!-- Sec Title -->
-			<div class="sec-title light centered">
-				<div class="title">CONTACT US</div>
-				<h2> Join Us To Get IT Free <br /> Consultations </h2>
-			</div>
-			<div class="inner-container">
-				<div class="row clearfix">
-					<!-- Image Column -->
-					<div class="image-column col-lg-6 col-md-12 col-sm-12">
-						<div class="inner-column">
-							<div class="image">
-								<img src="includes/images/contact.webp" alt="CalliArc-contact" />
-							</div>
-						</div>
-					</div>
-					<!-- Form Column -->
-					<div class="form-column col-lg-6 col-md-12 col-sm-12">
-						<div class="inner-column">
-							<h6 style="font-size: 30px; color:black; font-weight: 500;"> You Don't Hesitate To Contact
-								With Us,</h6>
-							<!-- Appointment Form -->
-							<div class="appointment-form">
-								<form action="https://formsubmit.co/contact@calliarc.com" method="POST">
-									<div class="row clearfix">
-										<div class="col-lg-6 col-md-6 col-sm-12 form-group">
-											<input type="text" name="username" placeholder="Name" pattern="[a-zA-Z ]*"
-												oninvalid="setCustomValidity('Please enter valid name.')"
-												oninput="setCustomValidity('')" required>
-
-											<span class="icon fa fa-user"></span>
-										</div>
-										<div class="col-lg-6 col-md-6 col-sm-12 form-group">
-											<input type="email" name="email" placeholder="Email" required
-												pattern="[a-zA-Z0-9._%+-]+@(?:[a-zA-Z0-9-]+\.)*(com|in|org|info|co|io)$"
-												oninvalid="setCustomValidity('Please enter a valid email address with domain extensions .com, .in or .org')"
-												oninput="setCustomValidity('')" />
-											<span class="icon fa fa-envelope"></span>
-										</div>
-										<div class="col-lg-6 col-md-6 col-sm-12 form-group">
-											<input type="tel" placeholder="Number" required minlength="10"
-												maxlength="10" onkeypress="return /[0-9]/i.test(event.key)">
-											<span class="icon fa fa-phone"></span>
-										</div>
-										<div class="col-lg-12 col-md-12 col-sm-12 form-group">
-											<textarea name="message" placeholder="Message" required></textarea>
-										</div>
-										<div class="col-lg-12 col-md-12 col-sm-12 form-group">
-											<button class="theme-btn btn-style-three" type="submit" name="submit-form">
-												<span class="txt">Send Message</span>
-												<input type="hidden" name="_next"
-													value="https://calliarc.com/index.shtml">
-											</button>
-										</div>
-									</div>
-								</form>
-
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+	</section>	
+	<!--#include file="includes/components/appointment.html" -->
 	<!-- Main Footer -->
 	<div style="border: 3px solid #f2c826" height="1px"></div>
 	<!--#include file="includes/components/footer.html" -->
