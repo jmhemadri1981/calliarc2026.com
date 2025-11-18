@@ -286,7 +286,7 @@
 
 							</div>
 
-							<a href="contact.html" class="theme-btn btn-style-two"><span class="txt">Learn
+							<a href="contact.shtml" class="theme-btn btn-style-two"><span class="txt">Learn
 									More</span></a>
 
 						</div>
@@ -305,28 +305,28 @@
 					<!--Sponsors Slider-->
 					<ul class="sponsors-carousel owl-carousel owl-theme">
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/1.webp" alt="CalliArc-clients"></a></div>
+							<div class="image-box"><a href="about.shtml#"><img src="includes/images/clients/1.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/2.webp" alt="CalliArc-clients"></a></div>
+							<div class="image-box"><a href="about.shtml#"><img src="includes/images/clients/2.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/3.webp" alt="CalliArc-clients"></a></div>
+							<div class="image-box"><a href="about.shtml#"><img src="includes/images/clients/3.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/4.webp" alt="CalliArc-clients"></a></div>
+							<div class="image-box"><a href="about.shtml#"><img src="includes/images/clients/4.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/5.webp" alt="CalliArc-clients"></a></div>
+							<div class="image-box"><a href="about.shtml#"><img src="includes/images/clients/5.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/6.webp" alt="CalliArc-clients"></a></div>
+							<div class="image-box"><a href="about.shtml#"><img src="includes/images/clients/6.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/7.webp" alt="CalliArc-clients"></a></div>
+							<div class="image-box"><a href="about.shtml#"><img src="includes/images/clients/7.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/8.webp" alt="CalliArc-clients"></a></div>
+							<div class="image-box"><a href="about.shtml#"><img src="includes/images/clients/8.webp" alt="CalliArc-clients"></a></div>
 						</li>
 					</ul>
 				</div>
@@ -351,9 +351,9 @@
 					<div class="process-block col-lg-4 col-md-6 col-sm-12">
 						<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 							<div class="number-box">01</div>
-							<h4><a href="services.html">Discover Your Needs</a></h4>
+							<h4><a href="services.shtml">Discover Your Needs</a></h4>
 							<div class="text">Our team will work with you to understand your HR management and payroll needs, as well as your web development, UI/UX design, mobile app development, and QA testing needs. </div>
-							<a class="read-more" href="services.html"><span
+							<a class="read-more" href="services.shtml"><span
 									class="arrow flaticon-long-arrow-pointing-to-the-right"></span>Read More</a>
 						</div>
 					</div>
@@ -362,9 +362,9 @@
 					<div class="process-block col-lg-4 col-md-6 col-sm-12">
 						<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
 							<div class="number-box">02</div>
-							<h4><a href="services.html">Design and Develop</a></h4>
+							<h4><a href="services.shtml">Design and Develop</a></h4>
 							<div class="text">Once we have a clear understanding of your needs, our team of experts will design and develop customized software, websites, and mobile apps that are user-friendly, visually appealing, and optimized for performance. </div>
-							<a class="read-more" href="services.html"><span
+							<a class="read-more" href="services.shtml"><span
 									class="arrow flaticon-long-arrow-pointing-to-the-right"></span>Read More</a>
 						</div>
 					</div>
@@ -373,9 +373,9 @@
 					<div class="process-block col-lg-4 col-md-6 col-sm-12">
 						<div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
 							<div class="number-box">03</div>
-							<h4><a href="services.html">Implement and Support</a></h4>
+							<h4><a href="services.shtml">Implement and Support</a></h4>
 							<div class="text">After design and development, we will implement our solutions and provide ongoing support to ensure that they continue to meet your evolving business needs. Our team will work closely with you to address any issues or concerns</div>
-							<a class="read-more" href="services.html"><span
+							<a class="read-more" href="services.shtml"><span
 									class="arrow flaticon-long-arrow-pointing-to-the-right"></span>Read More</a>
 						</div>
 					</div>
@@ -386,9 +386,9 @@
 		<!-- End Process Section -->
 
 		<!-- Technology Section -->
-		<section class="technology-section style-two" style="background-image: url(includes/images/background/1.webp.html)">
-			<div class="pattern-layer-one" style="background-image: url(includes/images/background/pattern-5.webp)"></div>
-			<div class="pattern-layer-two" style="background-image: url(includes/images/background/pattern-6.webp)"></div>
+		<section class="technology-section style-two" style="background-image: url(includes/images/background/1.webp.shtml)">
+			<div class="pattern-layer-one" style="background-image: url(includes/images/background/pattern-5.swebp)"></div>
+			<div class="pattern-layer-two" style="background-image: url(includes/images/background/pattern-6.swebp)"></div>
 			<div class="auto-container">
 				<!-- Sec Title -->
 				<div class="sec-title light centered">
@@ -400,7 +400,7 @@
 					<!-- Technology Block -->
 					<div class="technology-block">
 						<div class="inner-box">
-							<a href="services.html" class="overlay-link"></a>
+							<a href="services.shtml" class="overlay-link"></a>
 							<div class="icon-box">
 								<span class="flaticon-dashboard"></span>
 							</div>
@@ -411,7 +411,7 @@
 					<!-- Technology Block -->
 					<div class="technology-block">
 						<div class="inner-box">
-							<a href="services.html" class="overlay-link"></a>
+							<a href="services.shtml" class="overlay-link"></a>
 							<div class="icon-box">
 								<span class="flaticon-coding-3"></span>
 							</div>
@@ -422,7 +422,7 @@
 					<!-- Technology Block -->
 					<div class="technology-block">
 						<div class="inner-box">
-							<a href="services.html" class="overlay-link"></a>
+							<a href="services.shtml" class="overlay-link"></a>
 							<div class="icon-box">
 								<span class="flaticon-design"></span>
 							</div>
@@ -433,7 +433,7 @@
 					<!-- Technology Block -->
 					<div class="technology-block">
 						<div class="inner-box">
-							<a href="services.html" class="overlay-link"></a>
+							<a href="services.shtml" class="overlay-link"></a>
 							<div class="icon-box">
 								<span class="flaticon-web-browser"></span>
 							</div>
@@ -444,7 +444,7 @@
 					<!-- Technology Block -->
 					<div class="technology-block">
 						<div class="inner-box">
-							<a href="services.html" class="overlay-link"></a>
+							<a href="services.shtml" class="overlay-link"></a>
 							<div class="icon-box">
 								<span class="flaticon-network-1"></span>
 							</div>
@@ -493,7 +493,7 @@
 									<h4>H2R: Hire To Retire</h4>
 									<div class="text">Smart H2R is the best software to manage your employee's life cycle. </div>
 									<div class="btn-box text-center">
-										<a href="contact.html" class="theme-btn btn-style-three"><span
+										<a href="contact.shtml" class="theme-btn btn-style-three"><span
 												class="txt">Learn about our services</span></a>
 									</div>
 								</div>
@@ -506,7 +506,7 @@
 									<div class="text">SDL EDU PRO is a simple and user friendly school management software used by Schools and Universities.
 									It helps the school to manage student admissions process, class timings and others.</div>
 									<div class="btn-box text-center">
-										<a href="services.html" class="theme-btn btn-style-three"><span
+										<a href="services.shtml" class="theme-btn btn-style-three"><span
 												class="txt">Learn about our services</span></a>
 									</div>
 								</div>
@@ -516,7 +516,7 @@
 									<h4>SDL ERP</h4>
 									<div class="text"> SDL ERP solutions automate and streamline your most important business processes</div>
 									<div class="btn-box text-center">
-										<a href="services.html" class="theme-btn btn-style-three"><span
+										<a href="services.shtml" class="theme-btn btn-style-three"><span
 												class="txt">Learn about our services</span></a>
 									</div>
 								</div>
@@ -529,7 +529,7 @@
 									<div class="text">SDL EDU PRO is a simple and user friendly school management software used by Schools and Universities.
 										It helps the school to manage student admissions process, class timings and others.</div>
 									<div class="btn-box text-center">
-										<a href="services.html" class="theme-btn btn-style-three"><span
+										<a href="services.shtml" class="theme-btn btn-style-three"><span
 												class="txt">Learn about our services</span></a>
 									</div>
 								</div>

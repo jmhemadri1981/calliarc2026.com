@@ -69,7 +69,7 @@
 			<div class="xs-sidebar-widget">
 				<div class="sidebar-widget-container">
 					<div class="widget-heading">
-						<a href="clients.html#" class="close-side-widget">
+						<a href="clients.shtml#" class="close-side-widget">
 							X
 						</a>
 					</div>
@@ -87,7 +87,7 @@
 										If you use real content in the Consulting Process, anytime you reach a review
 										point you’ll end up reviewing and negotiating the content itself and not the
 										design.</p>
-									<a href="clients.html#" class="theme-btn btn-style-two"><span
+									<a href="clients.shtml#" class="theme-btn btn-style-two"><span
 											class="txt">Consultation</span></a>
 								</div>
 								<div class="contact-info">
@@ -103,11 +103,11 @@
 								</div>
 								<!-- Social Box -->
 								<ul class="social-box">
-									<li class="facebook"><a href="clients.html#" class="fa fa-facebook-f"></a></li>
-									<li class="twitter"><a href="clients.html#" class="fa fa-twitter"></a></li>
-									<li class="linkedin"><a href="clients.html#" class="fa fa-linkedin"></a></li>
-									<li class="instagram"><a href="clients.html#" class="fa fa-instagram"></a></li>
-									<li class="youtube"><a href="clients.html#" class="fa fa-youtube"></a></li>
+									<li class="facebook"><a href="clients.shtml#" class="fa fa-facebook-f"></a></li>
+									<li class="twitter"><a href="clients.shtml#" class="fa fa-twitter"></a></li>
+									<li class="linkedin"><a href="clients.shtml" class="fa fa-linkedin"></a></li>
+									<li class="instagram"><a href="clients.shtml#" class="fa fa-instagram"></a></li>
+									<li class="youtube"><a href="clients.shtml#" class="fa fa-youtube"></a></li>
 								</ul>
 							</div>
 						</div>

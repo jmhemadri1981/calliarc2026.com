@@ -58,14 +58,14 @@
 				<div class="news-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="services.html#"><img src="includes/images/resource/news-5.webp" alt="CalliArc-service" /></a>
+							<a href="services.shtml#"><img src="includes/images/resource/news-5.webp" alt="CalliArc-service" /></a>
 						</div>
 						<div class="lower-content">
 							<div class="content">
 								<div class="icon-box">
 									<span class="icon flaticon-coding-1"></span>
 								</div>
-								<h4><a href="services.html#">Web Development</a></h4>
+								<h4><a href="services.shtml#">Web Development</a></h4>
 								<div class="text">We carry more than just good coding skills. Our experience makes us stand out from other web development.</div>
 								
 							</div>
@@ -77,14 +77,14 @@
 				<div class="news-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="services.html#"><img src="includes/images/resource/news-6.webp" alt="CalliArc-service" /></a>
+							<a href="services.shtml#"><img src="includes/images/resource/news-6.webp" alt="CalliArc-service" /></a>
 						</div>
 						<div class="lower-content">
 							<div class="content">
 								<div class="icon-box">
 									<span class="icon flaticon-coding-1"></span>
 								</div>
-								<h4><a href="services.html#">Mobile Services</a></h4>
+								<h4><a href="services.shtml#">Mobile Services</a></h4>
 								<div class="text">Create complex enterprise software, ensure reliable software integration, modernise your legacy system.</div>
 								 
 							</div>
@@ -96,14 +96,14 @@
 				<div class="news-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="services.html#"><img src="includes/images/resource/news-7.webp" alt="CalliArc-service" /></a>
+							<a href="services.shtml#"><img src="includes/images/resource/news-7.webp" alt="CalliArc-service" /></a>
 						</div>
 						<div class="lower-content">
 							<div class="content">
 								<div class="icon-box">
 									<span class="icon flaticon-computer"></span>
 								</div>
-								<h4><a href="services.html#">UI/UX Design</a></h4>
+								<h4><a href="services.shtml#">UI/UX Design</a></h4>
 								<div class="text">Build the product you need on time with an experienced team that uses a clear and effective design process.</div>
 								 
 							</div>
@@ -115,14 +115,14 @@
 				<div class="news-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="services.html#"><img src="includes/images/resource/news-11.webp" alt="CalliArc-service" /></a>
+							<a href="services.shtml#"><img src="includes/images/resource/news-11.webp" alt="CalliArc-service" /></a>
 						</div>
 						<div class="lower-content">
 							<div class="content">
 								<div class="icon-box">
 									<span class="icon flaticon-web"></span>
 								</div>
-								<h4><a href="services.html#">QA & Testing</a></h4>
+								<h4><a href="services.shtml#">QA & Testing</a></h4>
 								<div class="text">Turn to our experts to perform comprehensive, multi-stage testing and auditing of your software.</div>
 								 
 							</div>
@@ -134,14 +134,14 @@
 				<div class="news-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="services.html#"><img src="includes/images/resource/news-12.webp" alt="CalliArc-service" /></a>
+							<a href="services.shtml#"><img src="includes/images/resource/news-12.webp" alt="CalliArc-service" /></a>
 						</div>
 						<div class="lower-content">
 							<div class="content">
 								<div class="icon-box">
 									<span class="icon flaticon-monitor-2"></span>
 								</div>
-								<h4><a href="services.html#">IT Consultancy</a></h4>
+								<h4><a href="services.shtml#">IT Consultancy</a></h4>
 								<div class="text">Trust our top minds to eliminate workflow pain points, implement new tech, and consolidate app portfolios.</div>
 								 
 							</div>
@@ -153,14 +153,14 @@
 				<div class="news-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box">
 						<div class="image">
-							<a href="services.html#"><img src="includes/images/resource/news-13.webp" alt="CalliArc-service" /></a>
+							<a href="services.shtml#"><img src="includes/images/resource/news-13.webp" alt="CalliArc-service" /></a>
 						</div>
 						<div class="lower-content">
 							<div class="content">
 								<div class="icon-box">
 									<span class="icon flaticon-human-resources"></span>
 								</div>
-								<h4><a href="services.html#">Dedicated Team</a></h4>
+								<h4><a href="services.shtml#">Dedicated Team</a></h4>
 								<div class="text">Over the past decade, our customers succeeded by leveraging Intellectsoft’s process of building, motivating.</div>
 								 
 							</div>
@@ -217,9 +217,9 @@
 						<div class="icon-box">
 							<span class=""><img src="includes/images/resource/Product-1.webp" alt="CalliArc-product"></span>
 						</div>
-						<!-- <h5><a href="services-detail.html">IT Soluations</a></h5> -->
+						<!-- <h5><a href="services-details">IT Soluations</a></h5> -->
 						<div class="text"><strong>Smart H2R is the best software to manage your employee's life cycle. The system will help you to organize.</strong></div>
-						<a href="hrms.html" class="arrow flaticon-long-arrow-pointing-to-the-right"></a>
+						<a href="hrms.shtml" class="arrow flaticon-long-arrow-pointing-to-the-right"></a>
 					</div>
 				</div>
 				
@@ -229,9 +229,9 @@
 						<div class="icon-box">
 							<span class=""><img src="includes/images/resource/Product-2.webp" style="position:relative;bottom:10px;" alt="CalliArc-product"></span>
 						</div>
-						<!-- <h5><a href="services-detail.html">Security System</a></h5> -->
+						<!-- <h5><a href="services-detail.shtml">Security System</a></h5> -->
 						<div class="text"><strong>SDL EDU PRO is a simple and user friendly school management software used by Schools and Universities. </strong></div>
-						<a href="schoolERP.html" class="arrow flaticon-long-arrow-pointing-to-the-right"></a>
+						<a href="schoolERP.shtml" class="arrow flaticon-long-arrow-pointing-to-the-right"></a>
 					</div>
 				</div>
 				
@@ -241,9 +241,9 @@
 						<div class="icon-box">
 							<span class=""><img src="includes/images/resource/Product-3.webp" alt="CalliArc-product"></span>
 						</div>
-						<!-- <h5><a href="services-detail.html">Web Development</a></h5> -->
+						<!-- <h5><a href="services-detail.shtml">Web Development</a></h5> -->
 						<div class="text"> <strong>SDL ERP solutions automate and streamline your most important business processes </strong> </div>
-						<a href="erp.html" class="arrow flaticon-long-arrow-pointing-to-the-right"></a>
+						<a href="erp.shtml" class="arrow flaticon-long-arrow-pointing-to-the-right"></a>
 					</div>
 				</div>
 			</div>
@@ -275,7 +275,7 @@
 							<div class="icon-box">
 								<span class="icon flaticon-coding-1"></span>
 							</div>
-							<h5><a href="services.html#">Web Develpment</a></h5>
+							<h5><a href="services.shtml#">Web Develpment</a></h5>
 							<div class="text">We carry more than just good coding skills. Our experience makes us stand out from other web development.</div>
 						</div>
 					</div>
@@ -288,7 +288,7 @@
 							<div class="icon-box">
 								<span class="icon flaticon-mobile-app"></span>
 							</div>
-							<h5><a href="services.html#">Mobile Development</a></h5>
+							<h5><a href="services.shtml#">Mobile Development</a></h5>
 							<div class="text">Create complex enterprise software, ensure reliable software integration, modernise your legacy system.</div>
 						</div>
 					</div>
@@ -301,7 +301,7 @@
 							<div class="icon-box">
 								<span class="icon flaticon-computer"></span>
 							</div>
-							<h5><a href="services.html#">UI/UX Design</a></h5>
+							<h5><a href="services.shtml#">UI/UX Design</a></h5>
 							<div class="text">Build the product you need on time with an experienced team that uses a clear and effective design process.</div>
 						</div>
 					</div>
@@ -314,7 +314,7 @@
 							<div class="icon-box">
 								<span class="icon flaticon-web"></span>
 							</div>
-							<h5><a href="services.html#">QA & Testing</a></h5>
+							<h5><a href="services.shtml#">QA & Testing</a></h5>
 							<div class="text">Turn to our experts to perform comprehensive, multi-stage testing and auditing of your software.</div>
 						</div>
 					</div>
@@ -327,7 +327,7 @@
 							<div class="icon-box">
 								<span class="icon flaticon-monitor-2"></span>
 							</div>
-							<h5><a href="services.html#">IT Counsultancy</a></h5>
+							<h5><a href="services.shtml#">IT Counsultancy</a></h5>
 							<div class="text">Trust our top minds to eliminate workflow pain points, implement new tech, and consolidate app portfolios.</div>
 						</div>
 					</div>
@@ -340,7 +340,7 @@
 							<div class="icon-box">
 								<span class="icon flaticon-human-resources"></span>
 							</div>
-							<h5><a href="services.html#">Dedicated Team</a></h5>
+							<h5><a href="services.shtml#">Dedicated Team</a></h5>
 							<div class="text">Over the past decade, our customers succeeded by leveraging Intellectsoft’s process of building, motivating.</div>
 						</div>
 					</div>
@@ -401,12 +401,12 @@
 										</div>
 
 									</div>
-									<a class="carousel-control-prev" href="services.html#carouselExampleControls" role="button"
+									<a class="carousel-control-prev" href="services.shtml#carouselExampleControls" role="button"
 										data-slide="prev">
 										<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 										<span class="sr-only">Previous</span>
 									</a>
-									<a class="carousel-control-next" href="services.html#carouselExampleControls" role="button"
+									<a class="carousel-control-next" href="services.shtml#carouselExampleControls" role="button"
 										data-slide="next">
 										<span class="carousel-control-next-icon" aria-hidden="true"></span>
 										<span class="sr-only">Next</span>
