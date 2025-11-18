@@ -1733,7 +1733,7 @@ img {
 }
 .about-section .content-column .text {
   position: relative;
-  color: #555555;
+  color: #000;
   font-size: 16px;
   line-height: 1.8em;
   font-weight: 500;
@@ -1770,7 +1770,7 @@ img {
 }
 .feature-block .inner-box .feature-text {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   margin-top: 5px;
 }
@@ -2014,7 +2014,7 @@ img {
 }
 .service-block .inner-box .text {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   line-height: 1.8em;
   transition: all 500ms ease;
@@ -2464,14 +2464,14 @@ img {
   left: 0px;
   width: 30px;
   height: 100px;
-  color: #555555;
+  color: #000000;
   font-size: 20px;
   text-align: center;
   line-height: 98px;
   margin-left: 10px;
   border-radius: 50px;
   display: inline-block;
-  border: 1px solid #555555;
+  border: 1px solid #000000;
   transition: all 300ms ease;
   -webkit-transition: all 300ms ease;
   -ms-transition: all 300ms ease;
@@ -2483,14 +2483,14 @@ img {
   right: 0px;
   width: 30px;
   height: 100px;
-  color: #555555;
+  color: #000000;
   font-size: 20px;
   text-align: center;
   line-height: 98px;
   margin-left: 10px;
   border-radius: 50px;
   display: inline-block;
-  border: 1px solid #555555;
+  border: 1px solid #000000;
   transition: all 300ms ease;
   -webkit-transition: all 300ms ease;
   -ms-transition: all 300ms ease;
@@ -2500,8 +2500,8 @@ img {
 .sponsors-section .owl-nav .owl-prev:hover,
 .sponsors-section .owl-nav .owl-next:hover {
   color: #ffffff;
-  background-color: #555555;
-  border-color: #555555;
+  background-color: #000000;
+  border-color: #000000;
 }
 .sponsors-section .owl-carousel .owl-stage-outer {
   padding: 20px 0px;
@@ -2614,7 +2614,7 @@ img {
 }
 .testimonial-section .lower-text {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   font-weight: 700;
 }
@@ -2663,13 +2663,13 @@ img {
 }
 .testimonial-block .inner-box .upper-box .designation {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
 }
 .testimonial-block .inner-box .text {
   position: relative;
   margin-top: 35px;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   line-height: 1.9em;
   font-weight: 500;
@@ -2862,7 +2862,7 @@ img {
 }
 .team-block .inner-box .lower-box .designation {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 14px;
   margin-top: 5px;
 }
@@ -2998,7 +2998,7 @@ img {
   line-height: 1.8em;
   font-weight: 500;
   margin-top: 12px;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   margin-bottom: 12px;
 }
@@ -4145,7 +4145,7 @@ img {
 }
 .process-block .inner-box .text {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   line-height: 1.8em;
   font-weight: 600;
@@ -4241,7 +4241,7 @@ img {
 }
 .team-block-two .inner-box .lower-box .designation {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 14px;
   margin-top: 5px;
 }
@@ -4543,7 +4543,7 @@ img {
 }
 .news-block-two .inner-box .content-column .text {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   line-height: 1.8em;
   font-weight: 600;
@@ -4867,7 +4867,7 @@ img {
 }
 .service-block-three .inner-box .text {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   line-height: 1.7em;
   font-weight: 500;
@@ -5144,7 +5144,7 @@ img {
   line-height: 1.8em;
   font-weight: 500;
   margin-top: 12px;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   margin-bottom: 12px;
   text-align: justify;
@@ -5473,7 +5473,7 @@ img {
 .price-block .inner-box .price-list li {
   position: relative;
   padding-left: 30px;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   margin-bottom: 12px;
   display: block;
@@ -5485,7 +5485,7 @@ img {
   content: "\f00c";
   left: 0px;
   top: 0px;
-  color: #555555;
+  color: #000000;
   font-family: "FontAwesome";
   -webkit-transition: all 300ms ease;
   -ms-transition: all 300ms ease;
@@ -5629,7 +5629,7 @@ img {
   line-height: 1.8em;
   font-weight: 500;
   margin-top: 12px;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   margin-bottom: 18px;
 }
@@ -5903,7 +5903,7 @@ img {
   display: block;
   font-size: 16px;
   line-height: 1.8em;
-  color: #555555;
+  color: #000000;
 }
 /***
 ====================================================================
@@ -6657,7 +6657,7 @@ img {
 }
 .services-detail .inner-box p {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   line-height: 1.8em;
   font-weight: 500;
@@ -6688,7 +6688,7 @@ img {
 .gallery-section .filters li {
   position: relative;
   display: inline-block;
-  color: #555555;
+  color: #000000;
   padding: 0px 0px;
   cursor: pointer;
   font-size: 18px;
@@ -6767,7 +6767,7 @@ img {
 }
 .project-detail-section .info-column .text {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 15px;
   line-height: 1.8em;
   font-weight: 500;
@@ -6778,7 +6778,7 @@ img {
 }
 .project-detail-section .info-column .info-list li {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   margin-bottom: 28px;
   padding-left: 25px;
@@ -6808,7 +6808,7 @@ img {
 }
 .project-detail-section .lower-section p {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   line-height: 1.8em;
   font-weight: 600;
@@ -6846,7 +6846,7 @@ img {
 }
 .contact-info-section .title-box .text {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   line-height: 1.9em;
   font-weight: 600;
@@ -6876,7 +6876,7 @@ img {
 }
 .contact-info-section .info-column ul li {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   margin-top: 5px;
   font-weight: 600;
@@ -6891,7 +6891,7 @@ img {
 .contact-info-section .lower-text {
   position: relative;
   text-align: center;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   font-weight: 600;
   margin-top: 20px;
@@ -6927,7 +6927,7 @@ img {
 }
 .contact-form .form-group label {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 10px;
@@ -7119,7 +7119,7 @@ img {
 }
 .blog-cat li a {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   padding: 18px 30px;
   display: block;
@@ -7238,7 +7238,7 @@ img {
   line-height: 24px;
   padding: 8px 20px 8px;
   margin: 0px 6px 10px 0px;
-  color: #555555;
+  color: #000000;
   text-align: center;
   font-size: 14px;
   background: none;
@@ -7313,7 +7313,7 @@ img {
 }
 .archive-list li a {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   padding-left: 20px;
   font-weight: 600;
@@ -7425,7 +7425,7 @@ img {
   line-height: 1.8em;
   font-weight: 500;
   margin-top: 12px;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   margin-bottom: 18px;
 }
@@ -7514,7 +7514,7 @@ img {
 }
 .news-detail .inner-box .lower-content p {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   line-height: 1.8em;
 }
@@ -7566,7 +7566,7 @@ img {
 }
 .news-detail .post-share-options .tags a {
   position: relative;
-  color: #555555;
+  color: #000000;
   font-size: 14px;
   font-weight: 600;
   line-height: 1em;
@@ -7696,7 +7696,7 @@ img {
   font-family: "Montserrat", sans-serif;
 }
 .sidebar-page-container .comments-area .comment-box .text {
-  color: #555555;
+  color: #000000;
   font-size: 16px;
   line-height: 1.9em;
   margin-bottom: 0px;
@@ -7704,7 +7704,7 @@ img {
 }
 .sidebar-page-container .comments-area .comment-info .comment-time {
   font-size: 15px;
-  color: #555555;
+  color: #000000;
   margin-left: 20px;
   display: inline-block;
   font-weight: 500;

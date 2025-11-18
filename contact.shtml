@@ -94,7 +94,7 @@
 						
 						<div class="form-group text-center col-lg-12 col-md-12 col-sm-12">
 							<button class="theme-btn btn-style-three" type="submit" name="submit-form"><span class="txt">Send Now</span></button>
-							<input type="hidden" name="_next" value="https://CalliArc.com/index.shtml">
+							<input type="hidden" name="_next" value="https://calliarc.com/index.shtml">
 						</div>
 						
 					</div>
@@ -223,7 +223,7 @@
 								<form action="https://formsubmit.co/contact@calliarc.com" method="POST" >
 									<div class="form-group">
 										<input type="email" name="email" placeholder="Email" required pattern="[a-zA-Z0-9._%+-]+@(?:[a-zA-Z0-9-]+\.)*(com|in|org|info|co|io)$" oninvalid="setCustomValidity('Please enter a valid email address with domain extensions .com, .in or .org')" oninput="setCustomValidity('')" />
-										<button type="submit" class="theme-btn">Subscribe Now <input type="hidden" name="_next" value="https://CalliArc.com/index.shtml"></button>
+										<button type="submit" class="theme-btn">Subscribe Now <input type="hidden" name="_next" value="https://calliarc.com/index.shtml"></button>
 									</div>
 								</form>
 							</div>
