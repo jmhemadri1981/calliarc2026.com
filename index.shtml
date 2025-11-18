@@ -214,14 +214,7 @@
 										<div class="feature-text"> We’ll help you test bold new ideas. </div>
 									</div>
 								</div>
-							</div>
-							<a href="https://www.youtube.com/watch?v=sbfGbPCmf7w"
-								class="lightbox-image theme-btn btn-style-one">
-								<span class="txt">
-									<i class="play-icon">
-										<img src="includes/images/icons/play-icon.webp" alt="youtube" onclick="" />
-									</i>&ensp; intro Video </span>
-							</a>
+							</div>							
 						</div>
 					</div>
 					<!-- Images Column -->
@@ -243,10 +236,7 @@
 									<img src="includes/images/resource/about-4.webp" alt="CalliArc-about" />
 								</div>
 							</div>
-						</div>
-						<a href="about.shtml" class="learn">
-							<span class="arrow flaticon-long-arrow-pointing-to-the-right"></span>Learn More About
-							Company </a>
+						</div>						
 					</div>
 				</div>
 			</div>
@@ -572,7 +562,7 @@
 	</section>	
 	<!--#include file="includes/components/appointment.html" -->
 	<!-- Main Footer -->
-	<div style="border: 3px solid #f2c826" height="1px"></div>
+	<div style="border: 3px solid #f68222" height="1px"></div>
 	<!--#include file="includes/components/footer.html" -->
 	</div>
 	<!--End pagewrapper-->
