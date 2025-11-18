@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8" />
-	<title>SDLGlobe | Home</title>
+	<title>CalliArc | Home</title>
 	<!-- Stylesheets -->
 	<link href="includes/css/bootstrap.css" rel="stylesheet" />
 	<link href="includes/css/style.css" rel="stylesheet" />
@@ -134,56 +134,56 @@
 						<li>
 							<div class="image-box">
 								<a href="index.shtml#">
-									<img src="includes/images/clients/1.webp" alt="SDLGlobe-clients" />
+									<img src="includes/images/clients/1.webp" alt="CalliArc-clients" />
 								</a>
 							</div>
 						</li>
 						<li>
 							<div class="image-box">
 								<a href="index.shtml#">
-									<img src="includes/images/clients/2.webp" alt="SDLGlobe-clients" />
+									<img src="includes/images/clients/2.webp" alt="CalliArc-clients" />
 								</a>
 							</div>
 						</li>
 						<li>
 							<div class="image-box">
 								<a href="index.shtml#">
-									<img src="includes/images/clients/3.webp" alt="SDLGlobe-clients" />
+									<img src="includes/images/clients/3.webp" alt="CalliArc-clients" />
 								</a>
 							</div>
 						</li>
 						<li>
 							<div class="image-box">
 								<a href="index.shtml#">
-									<img src="includes/images/clients/4.webp" alt="SDLGlobe-clients" />
+									<img src="includes/images/clients/4.webp" alt="CalliArc-clients" />
 								</a>
 							</div>
 						</li>
 						<li>
 							<div class="image-box">
 								<a href="index.shtml#">
-									<img src="includes/images/clients/5.webp" alt="SDLGlobe-clients" />
+									<img src="includes/images/clients/5.webp" alt="CalliArc-clients" />
 								</a>
 							</div>
 						</li>
 						<li>
 							<div class="image-box">
 								<a href="index.shtml#">
-									<img src="includes/images/clients/6.webp" alt="SDLGlobe-clients" />
+									<img src="includes/images/clients/6.webp" alt="CalliArc-clients" />
 								</a>
 							</div>
 						</li>
 						<li>
 							<div class="image-box">
 								<a href="index.shtml#">
-									<img src="includes/images/clients/7.webp" alt="SDLGlobe-clients" />
+									<img src="includes/images/clients/7.webp" alt="CalliArc-clients" />
 								</a>
 							</div>
 						</li>
 						<li>
 							<div class="image-box">
 								<a href="index.shtml#">
-									<img src="includes/images/clients/8.webp" alt="SDLGlobe-clients" />
+									<img src="includes/images/clients/8.webp" alt="CalliArc-clients" />
 								</a>
 							</div>
 						</li>
@@ -205,8 +205,8 @@
 					<!-- Content Column -->
 					<div class="content-column col-lg-6 col-md-12 col-sm-12">
 						<div class="inner-column">
-							<div class="text"> SDLGlobe is one of the leading Software Development Company founded in
-								2009, providing Enterprise Solutions and Consulting Services SDLGlobe Technologies Pvt.
+							<div class="text"> CalliArc is one of the leading Software Development Company founded in
+								2009, providing Enterprise Solutions and Consulting Services CalliArc Technologies Pvt.
 								Ltd. offers software end to end software solutions & IT consultancy to various
 								organisations starting from small to large Corporates for optimization of business
 								processes & growth. </div>
@@ -245,16 +245,16 @@
 							</div>
 							<div class="images-outer parallax-scene-1">
 								<div class="image" data-depth="0.10">
-									<img src="includes/images/resource/about-1.webp" alt="SDLGlobe-about" />
+									<img src="includes/images/resource/about-1.webp" alt="CalliArc-about" />
 								</div>
 								<div class="image-two" data-depth="0.30">
-									<img src="includes/images/resource/about-2.webp" alt="SDLGlobe-about" width="120" />
+									<img src="includes/images/resource/about-2.webp" alt="CalliArc-about" width="120" />
 								</div>
 								<div class="image-three" data-depth="0.20">
-									<img src="includes/images/resource/about-3.webp" alt="SDLGlobe-about" />
+									<img src="includes/images/resource/about-3.webp" alt="CalliArc-about" />
 								</div>
 								<div class="image-four" data-depth="0.30">
-									<img src="includes/images/resource/about-4.webp" alt="SDLGlobe-about" />
+									<img src="includes/images/resource/about-4.webp" alt="CalliArc-about" />
 								</div>
 							</div>
 						</div>
@@ -312,7 +312,7 @@
 						<div class="icon-box">
 							<span class="">
 								<a href="hrms.shtml"><img src="includes/images/resource/Product-1.webp"
-										alt="SDLGlobe-product" /></a>
+										alt="CalliArc-product" /></a>
 							</span>
 						</div>
 						<!-- <h5><a href="#">IT Soluations</a></h5> -->
@@ -331,7 +331,7 @@
 						<div class="icon-box">
 							<span class="">
 								<a href="schoolERP.shtml" title="visit our products page"><img
-										src="includes/images/resource/Product-2.webp" alt="SDLGlobe-product"
+										src="includes/images/resource/Product-2.webp" alt="CalliArc-product"
 										style="position:relative; bottom:15px" /></a>
 							</span>
 						</div>
@@ -352,7 +352,7 @@
 						<div class="icon-box">
 							<span class="">
 								<a href="erp.shtml" title="visit our products page"><img
-										src="includes/images/resource/Product-3.webp" alt="SDLGlobe-product" /></a>
+										src="includes/images/resource/Product-3.webp" alt="CalliArc-product" /></a>
 							</span>
 						</div>
 						<!-- <h5><a href="#">Web Development</a></h5> -->
@@ -532,7 +532,7 @@
 									<a href="empty:" class="overlay-link" title="our awards"></a>
 									<div class="icon-box">
 										<span class="">
-											<img src="includes/images/clients/QIB%20CERTIFICATE%20-%20SDLGLOBE%20TECHNOLOGIES%20PVT%20LTD.png" alt="SDLGlobe-award" />
+											<img src="includes/images/clients/QIB%20CERTIFICATE%20-%20CalliArc%20TECHNOLOGIES%20PVT%20LTD.png" alt="CalliArc-award" />
 										</span>
 									</div>
 									<!-- <h6></h6> -->
@@ -543,19 +543,7 @@
 									<a href="empty:" class="overlay-link" title="our awards"></a>
 									<div class="icon-box">
 										<span class="">
-											<img src="includes/images/clients/award-1.webp" alt="SDLGlobe-award" />
-										</span>
-									</div>
-									<!-- <h6></h6> -->
-								</div>
-							</div>
-							<!-- Technology Block -->
-							<div class="technology-block col-lg-4 col-md-6 col-sm-12">
-								<div class="inner-box">
-									<a href="empty:" class="overlay-link" title="our awards"></a>
-									<div class="icon-box">
-										<span class="">
-											<img src="includes/images/clients/award-2.webp" alt="SDLGlobe-award" />
+											<img src="includes/images/clients/award-1.webp" alt="CalliArc-award" />
 										</span>
 									</div>
 									<!-- <h6></h6> -->
@@ -567,7 +555,7 @@
 									<a href="empty:" class="overlay-link" title="our awards"></a>
 									<div class="icon-box">
 										<span class="">
-											<img src="includes/images/clients/award-3.webp" alt="SDLGlobe-award" />
+											<img src="includes/images/clients/award-2.webp" alt="CalliArc-award" />
 										</span>
 									</div>
 									<!-- <h6></h6> -->
@@ -579,7 +567,19 @@
 									<a href="empty:" class="overlay-link" title="our awards"></a>
 									<div class="icon-box">
 										<span class="">
-											<img src="includes/images/clients/award-4.webp" width="151" alt="SDLGlobe-award"
+											<img src="includes/images/clients/award-3.webp" alt="CalliArc-award" />
+										</span>
+									</div>
+									<!-- <h6></h6> -->
+								</div>
+							</div>
+							<!-- Technology Block -->
+							<div class="technology-block col-lg-4 col-md-6 col-sm-12">
+								<div class="inner-box">
+									<a href="empty:" class="overlay-link" title="our awards"></a>
+									<div class="icon-box">
+										<span class="">
+											<img src="includes/images/clients/award-4.webp" width="151" alt="CalliArc-award"
 												height="200" />
 										</span>
 									</div>
@@ -592,7 +592,7 @@
 									<a href="empty:" class="overlay-link" title="our awards"></a>
 									<div class="icon-box">
 										<span class="">
-											<img src="includes/images/clients/award-5.webp" alt="SDLGlobe-award" />
+											<img src="includes/images/clients/award-5.webp" alt="CalliArc-award" />
 										</span>
 									</div>
 									<!-- <h6>WEARALABLES</h6> -->
@@ -604,7 +604,7 @@
 									<a href="empty:" class="overlay-link" title="our awards"></a>
 									<div class="icon-box">
 										<span class="">
-											<img src="includes/images/clients/award-6.webp" alt="SDLGlobe-award" />
+											<img src="includes/images/clients/award-6.webp" alt="CalliArc-award" />
 										</span>
 									</div>
 									<!-- <h6>TV</h6> -->
@@ -634,7 +634,7 @@
 					<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
 							<a href="blog-post1.shtml">
-								<img src="includes/images/resource/news-4.webp" alt="SDLGlobe-article"
+								<img src="includes/images/resource/news-4.webp" alt="CalliArc-article"
 									style="border:2px solid black" />
 							</a>
 						</div>
@@ -658,7 +658,7 @@
 					<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
 							<a href="blog-post2.shtml">
-								<img src="includes/images/resource/news-3.webp" alt="SDLGlobe-article"
+								<img src="includes/images/resource/news-3.webp" alt="CalliArc-article"
 									style="border:2px solid black" />
 							</a>
 						</div>
@@ -684,7 +684,7 @@
 					<div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
 							<a href="https://womenentrepreneurindia.com/digital-magazine/it-sector-september-2020/">
-								<img src="includes/images/resource/news-1.webp" alt="SDLGlobe-article"
+								<img src="includes/images/resource/news-1.webp" alt="CalliArc-article"
 									style="border:2px solid black" />
 							</a>
 						</div>
@@ -726,32 +726,32 @@
 										
 										<div class="carousel-item active">
 											<img class="d-block w-100" src="includes/images/resource/building1.webp"
-												alt="SDLGlobe-home" />
+												alt="CalliArc-home" />
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="includes/images/resource/building2.webp"
-												alt="SDLGlobe-home" />
+												alt="CalliArc-home" />
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="includes/images/resource/office5.webp"
-												alt="SDLGlobe-staff" />
+												alt="CalliArc-staff" />
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="includes/images/resource/office4.webp"
-												alt="SDLGlobe-staff" />
+												alt="CalliArc-staff" />
 										</div>
 										<div class="carousel-item">
 											<img class="d-block w-100" src="includes/images/resource/office3.webp"
-												alt="SDLGlobe-staff" />
+												alt="CalliArc-staff" />
 										</div>
 									
 										<div class="carousel-item">
 											<img class="d-block w-100" src="includes/images/resource/office6.webp"
-												alt="SDLGlobe-staff" />
+												alt="CalliArc-staff" />
 										</div>
 										<div class="carousel-item ">
 											<img class="d-block w-100" src="includes/images/resource/office2.webp"
-												alt="SDLGlobe-staff" />
+												alt="CalliArc-staff" />
 										</div>
 
 									</div>
@@ -776,7 +776,7 @@
 								With Us,</h6>
 							<!-- Appointment Form -->
 							<div class="appointment-form">
-								<form action="https://formsubmit.co/info@sdlglobe.com" method="POST">
+								<form action="https://formsubmit.co/info@CalliArc.com" method="POST">
 									<div class="row clearfix">
 										<div class="col-lg-6 col-md-6 col-sm-12 form-group">
 											<input type="text" name="username" placeholder="Name" pattern="[a-zA-Z ]*"
@@ -804,7 +804,7 @@
 											<button class="theme-btn btn-style-three" type="submit" name="submit-form">
 												<span class="txt">Send Message</span>
 												<input type="hidden" name="_next"
-													value="https://sdlglobe.com/index.shtml">
+													value="https://CalliArc.com/index.shtml">
 											</button>
 										</div>
 									</div>

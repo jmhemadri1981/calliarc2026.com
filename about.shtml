@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>SDLGlobe | About Us</title>
+	<title>CalliArc | About Us</title>
 	<!-- Stylesheets -->
 	<link href="includes/css/bootstrap.css" rel="stylesheet">
 	<link href="includes/css/style.css" rel="stylesheet">
@@ -66,11 +66,11 @@
 				<!-- Sec Title -->
 				<div class="sec-title centered" >
 					<div class="title">Time Line of SDL Globe </div>
-					<h2 style="font-weight:500;">From Start-Up to Leading Software Development Company: <br> Our Journey at SDLGlobe </h2>
+					<h2 style="font-weight:500;">From Start-Up to Leading Software Development Company: <br> Our Journey at CalliArc </h2>
 				</div>
 
 				<div class="row clearfix" >
-					<img src="includes/images/timline-2.webp" alt ="SDLGlobe-Timeline"style="background-size: cover;" />
+					<img src="includes/images/timline-2.webp" alt ="CalliArc-Timeline"style="background-size: cover;" />
 				</div>
 			</div>
 		</section>
@@ -93,7 +93,7 @@
 					<!-- Content Column -->
 					<div class="content-column col-lg-6 col-md-12 col-sm-12">
 						<div class="inner-column">
-							<div class="text">SDLGlobe is one of the leading software development companie, founded in 2009, providing enterprise solutions and consulting services. SDLGlobe Technologies Pvt. Ltd. offers software end-to-end solutions and IT consulting services to various organizations, ranging from small to large corporations, for the optimization of business processes and growth.</div>
+							<div class="text">CalliArc is one of the leading software development companie, founded in 2009, providing enterprise solutions and consulting services. CalliArc Technologies Pvt. Ltd. offers software end-to-end solutions and IT consulting services to various organizations, ranging from small to large corporations, for the optimization of business processes and growth.</div>
 							<div class="blocks-outer">
 
 								<!-- Feature Block -->
@@ -133,16 +133,16 @@
 							</div>
 							<div class="images-outer parallax-scene-1">
 								<div class="image" data-depth="0.10">
-									<img src="includes/images/resource/about-1.webp" alt="SDLGlobe-about" />
+									<img src="includes/images/resource/about-1.webp" alt="CalliArc-about" />
 								</div>
 								<div class="image-two" data-depth="0.30">
-									<img src="includes/images/resource/about-2.webp" alt="SDLGlobe-about" />
+									<img src="includes/images/resource/about-2.webp" alt="CalliArc-about" />
 								</div>
 								<div class="image-three" data-depth="0.20">
-									<img src="includes/images/resource/about-3.webp" alt="SDLGlobe-about" />
+									<img src="includes/images/resource/about-3.webp" alt="CalliArc-about" />
 								</div>
 								<div class="image-four" data-depth="0.30">
-									<img src="includes/images/resource/about-4.webp" alt="SDLGlobe-about" />
+									<img src="includes/images/resource/about-4.webp" alt="CalliArc-about" />
 								</div>
 							</div>
 						</div>
@@ -227,7 +227,7 @@
 							<div class="circle-layer" style="background-image: url(includes/images/background/pattern-10.webp)">
 							</div>
 							<div class="image">
-								<img src="includes/images/resource/about-5.webp" alt="SDLGlobe-about" style="background-size: cover;" />
+								<img src="includes/images/resource/about-5.webp" alt="CalliArc-about" style="background-size: cover;" />
 							</div>
 						</div>
 					</div>
@@ -317,28 +317,28 @@
 					<!--Sponsors Slider-->
 					<ul class="sponsors-carousel owl-carousel owl-theme">
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/1.webp" alt="SDLGlobe-clients"></a></div>
+							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/1.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/2.webp" alt="SDLGlobe-clients"></a></div>
+							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/2.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/3.webp" alt="SDLGlobe-clients"></a></div>
+							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/3.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/4.webp" alt="SDLGlobe-clients"></a></div>
+							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/4.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/5.webp" alt="SDLGlobe-clients"></a></div>
+							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/5.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/6.webp" alt="SDLGlobe-clients"></a></div>
+							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/6.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/7.webp" alt="SDLGlobe-clients"></a></div>
+							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/7.webp" alt="CalliArc-clients"></a></div>
 						</li>
 						<li>
-							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/8.webp" alt="SDLGlobe-clients"></a></div>
+							<div class="image-box"><a href="about.html#"><img src="includes/images/clients/8.webp" alt="CalliArc-clients"></a></div>
 						</li>
 					</ul>
 				</div>
@@ -487,15 +487,15 @@
 						<ul class="tab-btns tab-buttons clearfix">
 							<li data-tab="#prod-html" class="tab-btn"
 								><span class=""><img
-										src="includes/images/resource/Product-1.webp" alt="SDLGlobe-product"
+										src="includes/images/resource/Product-1.webp" alt="CalliArc-product"
 										style="position:relative; top:10px; width:190px; "></span></li>
 							<li data-tab="#prod-bootstrap" class="tab-btn active-btn"
 								><span class=""><img
-										src="includes/images/resource/Product-2.webp" alt="SDLGlobe-product"
+										src="includes/images/resource/Product-2.webp" alt="CalliArc-product"
 										style="position:relative; top:10px; width:190px;"></span></li>
 										<li data-tab="#prod-php" class="tab-btn"
 										><span class=""><img
-												src="includes/images/resource/Product-3.webp" alt="SDLGlobe-product"
+												src="includes/images/resource/Product-3.webp" alt="CalliArc-product"
 												style="position:relative; top:10px; width:190px; "></span></li>
 						<div class="tabs-content">
 

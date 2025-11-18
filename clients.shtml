@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>SDLGlobe | clients</title>
+	<title>CalliArc | clients</title>
 	<!-- Stylesheets -->
 	<link href="includes/css/bootstrap.css" rel="stylesheet">
 	<link href="includes/css/style.css" rel="stylesheet">
@@ -87,7 +87,7 @@
 						<div class="sidebar-info-contents">
 							<div class="content-inner">
 								<div class="logo">
-									<a href="index.html"><img src="includes/images/logo-2.webp" alt="SDLGlobe-logo" /></a>
+									<a href="index.html"><img src="includes/images/logo-2.webp" alt="CalliArc-logo" /></a>
 								</div>
 								<div class="content-box">
 									<h2>About Us</h2>
@@ -217,85 +217,85 @@
 			<!-- Tab Btns-->
 			<ul class="tab-btns tab-buttons clearfix">
 				<li data-tab="#prod-html" class="tab-btn"><span class=""><img src="includes/images/img/ClientIcons/client-2.webp"
-							style="position:relative; bottom:40px; "  alt="SDLGlobe-clients"></span></li>
+							style="position:relative; bottom:40px; "  alt="CalliArc-clients"></span></li>
 				<li data-tab="#prod-bootstrap" class="tab-btn "><span class=""><img
-							src="includes/images/img/ClientIcons/client-5.webp"alt="SDLGlobe-clients"
+							src="includes/images/img/ClientIcons/client-5.webp"alt="CalliArc-clients"
 							style="position:relative; bottom: 10px; width:100px;"></span></li>
 				<li data-tab="#prod-bootstrap" class="tab-btn "><span class=""><img
-							src="includes/images/img/ClientIcons/client-3.webp"alt="SDLGlobe-clients" style="position:relative; bottom:40px;"></span>
+							src="includes/images/img/ClientIcons/client-3.webp"alt="CalliArc-clients" style="position:relative; bottom:40px;"></span>
 				</li>
 				<li data-tab="#prod-css" class="tab-btn"><span class=""><img style="position:relative; bottom:50px"
-							src="includes/images/img/ClientIcons/client-4.webp" alt="SDLGlobe-clients"style="position:relative;bottom:40px;"></span>
+							src="includes/images/img/ClientIcons/client-4.webp" alt="CalliArc-clients"style="position:relative;bottom:40px;"></span>
 				</li>
 				<li data-tab="#prod-php" class="tab-btn"><span class=""><img src="includes/images/img/ClientIcons/client-20.webp"
 							style="position:relative; bottom:40px;"></span></li>
 			</ul>
 			<ul class="tab-btns tab-buttons clearfix">
 				<li data-tab="#prod-html" class="tab-btn">
-					<span class=""><img src="includes/images/img/ClientIcons/client-15.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-15.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;  "></span></li>
 				<li data-tab="#prod-bootstrap" class="tab-btn "><span class=""><img
-							src="includes/images/img/ClientIcons/client-8.webp" alt="SDLGlobe-clients"style="position:relative; bottom:40px;"></span>
+							src="includes/images/img/ClientIcons/client-8.webp" alt="CalliArc-clients"style="position:relative; bottom:40px;"></span>
 				</li>
 				<li data-tab="#prod-css" class="tab-btn ">
-					<span class=""><img src="includes/images/img/ClientIcons/client-9.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-9.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;"></span></li>
 				<li data-tab="#prod-php" class="tab-btn">
-					<span class=""><img src="includes/images/img/ClientIcons/client-10.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-10.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;"></span></li>
 				<li data-tab="#prod-java" class="tab-btn">
-					<span class=""><img src="includes/images/img/ClientIcons/client-11.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-11.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;"></span></li>
 			</ul>
 			<ul class="tab-btns tab-buttons clearfix">
 				<li data-tab="#prod-html" class="tab-btn">
-					<span class=""><img src="includes/images/img/ClientIcons/client-12.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-12.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px; width:190px; "></span></li>
 				<li data-tab="#prod-bootstrap" class="tab-btn "><span class=""><img
-							src="includes/images/img/ClientIcons/client-13.webp" alt="SDLGlobe-clients"style="position:relative; bottom:45px;"></span>
+							src="includes/images/img/ClientIcons/client-13.webp" alt="CalliArc-clients"style="position:relative; bottom:45px;"></span>
 				</li>
 				<li data-tab="#prod-css" class="tab-btn ">
-					<span class=""><img src="includes/images/img/ClientIcons/client-14.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-14.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;"></span></li>
 				<li data-tab="#prod-php" class="tab-btn">
-					<span class=""><img src="includes/images/img/ClientIcons/client-1.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-1.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;"></span></li>
 				<li data-tab="#prod-java" class="tab-btn">
-					<span class=""><img src="includes/images/img/ClientIcons/client-16.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-16.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;"></span></li>
 			</ul>
 			<ul class="tab-btns tab-buttons clearfix">
 				<li data-tab="#prod-html" class="tab-btn">
-					<span class=""><img src="includes/images/img/ClientIcons/client-17.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-17.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px; width:190px; "></span></li>
 				<li data-tab="#prod-bootstrap" class="tab-btn "><span class=""><img
-							src="includes/images/img/ClientIcons/client-18.webp"alt="SDLGlobe-clients" style="position:relative; bottom:40px;"></span>
+							src="includes/images/img/ClientIcons/client-18.webp"alt="CalliArc-clients" style="position:relative; bottom:40px;"></span>
 				</li>
 				<li data-tab="#prod-css" class="tab-btn ">
-					<span class=""><img src="includes/images/img/ClientIcons/client-19.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-19.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;"></span></li>
 				<li data-tab="#prod-php" class="tab-btn">
-					<span class=""><img src="includes/images/img/ClientIcons/client-7.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-7.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;"></span></li>
 				<li data-tab="#prod-java" class="tab-btn">
-					<span class=""><img src="includes/images/img/ClientIcons/client-21.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-21.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;"></span></li>
 			</ul>
 			<ul class="tab-btns tab-buttons clearfix">
 				<li data-tab="#prod-html" class="tab-btn">
-					<span class=""><img src="includes/images/img/ClientIcons/client-22.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-22.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px; width:190px; "></span></li>
 				<li data-tab="#prod-bootstrap" class="tab-btn "><span class=""><img
-							src="includes/images/img/ClientIcons/client-23.webp" alt="SDLGlobe-clients"style="position:relative; bottom:40px;"></span>
+							src="includes/images/img/ClientIcons/client-23.webp" alt="CalliArc-clients"style="position:relative; bottom:40px;"></span>
 				</li>
 				<li data-tab="#prod-css" class="tab-btn ">
-					<span class=""><img src="includes/images/img/ClientIcons/client-24.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-24.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;"></span></li>
 				<li data-tab="#prod-php" class="tab-btn">
-					<span class=""><img src="includes/images/img/ClientIcons/client-25.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-25.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;"></span></li>
 				<li data-tab="#prod-java" class="tab-btn">
-					<span class=""><img src="includes/images/img/ClientIcons/client-26.webp"alt="SDLGlobe-clients"
+					<span class=""><img src="includes/images/img/ClientIcons/client-26.webp"alt="CalliArc-clients"
 							style="position:relative; bottom:40px;"></span></li>
 			</ul>
 		</div>

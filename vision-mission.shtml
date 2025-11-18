@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>SDLGlobe | vision-mission</title>
+<title>CalliArc | vision-mission</title>
 <!-- Stylesheets -->
 <link href="includes/css/bootstrap.css" rel="stylesheet">
 <link href="includes/css/style.css" rel="stylesheet">
@@ -87,7 +87,7 @@
 					<div class="image-column col-lg-4 col-md-12 col-sm-12">
 						<div class="inner-column">
 							<div class="image">
-								<img src="includes/images/resource/products/innovation.gif" alt="SDLGlobe-innovation" />
+								<img src="includes/images/resource/products/innovation.gif" alt="CalliArc-innovation" />
 							</div>
 						</div>
 					</div>
@@ -116,7 +116,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-multiply"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow-1"></span></button>
-	<form method="post" action="https://sdlglobe.com/blog.html">
+	<form method="post" action="https://CalliArc.com/blog.html">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>

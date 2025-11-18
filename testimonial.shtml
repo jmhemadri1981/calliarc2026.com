@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>SDLGlobe | Testimonial</title>
+	<title>CalliArc | Testimonial</title>
 	<!-- Stylesheets -->
 	<link href="includes/css/bootstrap.css" rel="stylesheet">
 	<link href="includes/css/style.css" rel="stylesheet">
@@ -75,7 +75,7 @@
 					<div class="inner-box" style="background-image: url(includes/images/background/pattern-4.webp)">
 						<div class="upper-box">
 							<div class="icon">
-								<img src="includes/images/resource/testimonial-icon-1.webp" alt="SDLGlobe-clients" />
+								<img src="includes/images/resource/testimonial-icon-1.webp" alt="CalliArc-clients" />
 							</div>
 							<h4>NHIC</h4>
 							<div class="designation">Client of Company</div>
@@ -89,7 +89,7 @@
 					<div class="inner-box" style="background-image: url(includes/images/background/pattern-4.webp)">
 						<div class="upper-box">
 							<div class="icon">
-								<img src="includes/images/resource/testimonial-icon-2.webp" alt="SDLGlobe-clients" />
+								<img src="includes/images/resource/testimonial-icon-2.webp" alt="CalliArc-clients" />
 							</div>
 							<h4>TOFFLON</h4>
 							<div class="designation">Client of Company</div>
@@ -103,7 +103,7 @@
 					<div class="inner-box" style="background-image: url(includes/images/background/pattern-4.webp)">
 						<div class="upper-box">
 							<div class="icon">
-								<img src="includes/images/resource/testimonial-icon-3.webp" alt="SDLGlobe-clients" />
+								<img src="includes/images/resource/testimonial-icon-3.webp" alt="CalliArc-clients" />
 							</div>
 							<h4>AB MAURI</h4>
 							<div class="designation">Client of Company</div>
@@ -117,7 +117,7 @@
 					<div class="inner-box" style="background-image: url(includes/images/background/pattern-4.webp)">
 						<div class="upper-box">
 							<div class="icon">
-								<img src="includes/images/resource/testimonial-icon-4.webp" alt="SDLGlobe-clients" />
+								<img src="includes/images/resource/testimonial-icon-4.webp" alt="CalliArc-clients" />
 							</div>
 							<h4>DHANANJAY</h4>
 							<div class="designation">Client of Company</div>
@@ -131,7 +131,7 @@
 					<div class="inner-box" style="background-image: url(includes/images/background/pattern-4.webp)">
 						<div class="upper-box">
 							<div class="icon">
-								<img src="includes/images/resource/testimonial-icon-5.webp" alt="SDLGlobe-clients" />
+								<img src="includes/images/resource/testimonial-icon-5.webp" alt="CalliArc-clients" />
 							</div>
 							<h4>Steelart</h4>
 							<div class="designation">Client of Company</div>
@@ -145,7 +145,7 @@
 					<div class="inner-box" style="background-image: url(includes/images/background/pattern-4.webp)">
 						<div class="upper-box">
 							<div class="icon">
-								<img src="includes/images/resource/testimonial-icon-6.webp" alt="SDLGlobe-clients" />
+								<img src="includes/images/resource/testimonial-icon-6.webp" alt="CalliArc-clients" />
 							</div>
 							<h4>DHANUKA</h4>
 							<div class="designation">Client of Company</div>

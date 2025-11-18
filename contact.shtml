@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>SDLGlobe | Contact</title>
+<title>CalliArc | Contact</title>
 <!-- Stylesheets -->
 <link href="includes/css/bootstrap.css" rel="stylesheet">
 <link href="includes/css/style.css" rel="stylesheet">
@@ -78,7 +78,7 @@
 			<div class="contact-form">
 					
 				<!-- Contact Form -->
-				<form action="https://formsubmit.co/career@sdlglobe.com" method="POST" >
+				<form action="https://formsubmit.co/career@CalliArc.com" method="POST" >
 					<div class="row clearfix">
 					
 						<div class="form-group col-lg-6 col-md-6 col-sm-12">
@@ -103,7 +103,7 @@
 						
 						<div class="form-group text-center col-lg-12 col-md-12 col-sm-12">
 							<button class="theme-btn btn-style-three" type="submit" name="submit-form"><span class="txt">Send Now</span></button>
-							<input type="hidden" name="_next" value="https://sdlglobe.com/index.html">
+							<input type="hidden" name="_next" value="https://CalliArc.com/index.html">
 						</div>
 						
 					</div>
@@ -121,7 +121,7 @@
 			<div class="title-box">
 				<div class="title">GET IN TOUCH</div>
 				<h2>A Monthly Project Fee <br> Price Plans</h2>
-				<div class="text">For general enquires you can touch with our front desk supporting team <br> at <a href="mailto:career@sdlglobe.com">career@sdlglobe.com</a> or call on <a href="tel:+91-8035893531">+91-8035893531</a></div>
+				<div class="text">For general enquires you can touch with our front desk supporting team <br> at <a href="mailto:career@CalliArc.com">career@CalliArc.com</a> or call on <a href="tel:+91-8035893531">+91-8035893531</a></div>
 			</div>
 			
 			<div class="row clearfix">
@@ -133,7 +133,7 @@
 							<div class="icon-box"><span class="flaticon-pin"></span></div>
 							<ul>
 								<li><strong>Address</strong></li>
-								<li >SDLGlobe Technologies Pvt. Ltd.<br> # 399, "SS Prime", Double Road, AGB Layout, Hesaraghatta Main Road, Bengaluru - 560090, Karnataka, India.</li>
+								<li >CalliArc Technologies Pvt. Ltd.<br> # 399, "SS Prime", Double Road, AGB Layout, Hesaraghatta Main Road, Bengaluru - 560090, Karnataka, India.</li>
 							</ul>
 						</div>
 					</div>
@@ -159,7 +159,7 @@
 							<div class="icon-box"><span class="flaticon-email-1"></span></div>
 							<ul>
 								<li><strong>E-Mail</strong></li>
-								<li>career@sdlglobe.com</li>
+								<li>career@CalliArc.com</li>
 							</ul>
 						</div>
 					</div>
@@ -200,7 +200,7 @@
 					<div class="footer-column col-lg-4 col-md-6 col-sm-12">
 						<div class="footer-widget logo-widget">
 							<h5>About SDL Globe</h5>
-							<div class="text">SDLGlobe is one of the leading Software Development Company founded in 2009, providing Enterprise Solutions and Consulting Services.
+							<div class="text">CalliArc is one of the leading Software Development Company founded in 2009, providing Enterprise Solutions and Consulting Services.
 							</div>
 						</div>
 					</div>
@@ -229,10 +229,10 @@
 							<div class="text">Sign up today for hints, tips and <br> the latest product news</div>
 							<!--Emailed Form-->
 							<div class="emailed-form">
-								<form action="https://formsubmit.co/career@sdlglobe.com" method="POST" >
+								<form action="https://formsubmit.co/career@CalliArc.com" method="POST" >
 									<div class="form-group">
 										<input type="email" name="email" placeholder="Email" required pattern="[a-zA-Z0-9._%+-]+@(?:[a-zA-Z0-9-]+\.)*(com|in|org|info|co|io)$" oninvalid="setCustomValidity('Please enter a valid email address with domain extensions .com, .in or .org')" oninput="setCustomValidity('')" />
-										<button type="submit" class="theme-btn">Subscribe Now <input type="hidden" name="_next" value="https://sdlglobe.com/index.html"></button>
+										<button type="submit" class="theme-btn">Subscribe Now <input type="hidden" name="_next" value="https://CalliArc.com/index.html"></button>
 									</div>
 								</form>
 							</div>
@@ -250,7 +250,7 @@
 				<div class="row clearfix">
 					<!-- Column -->
 					<div class="column col-lg-6 col-md-12 col-sm-12">
-						<div class="copyright">Copyright &copy; 2023 SDLGLOBE Technologies Pvt Ltd. All
+						<div class="copyright">Copyright &copy; 2023 CalliArc Technologies Pvt Ltd. All
 							Rights Reserved.
 						</div>
 					</div>
