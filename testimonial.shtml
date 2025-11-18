@@ -3,29 +3,17 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>CalliArc | Testimonial</title>
-	<!-- Stylesheets -->
+	<!--#include file="includes/components/meta.html" -->
 	<link href="includes/css/bootstrap.css" rel="stylesheet">
 	<link href="includes/css/style.css" rel="stylesheet">
 	<link href="includes/css/responsive.css" rel="stylesheet">
-
-	<link
-		href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Nunito+Sans:wght@300;600;700;800;900&display=swap"
-		rel="stylesheet">
-
-	<!-- Color Switcher Mockup -->
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Nunito+Sans:wght@300;600;700;800;900&display=swap" rel="stylesheet">
 	<link href="includes/css/color-switcher-design.css" rel="stylesheet">
-
-	<!-- Color Themes -->
 	<link id="theme-color-file" href="includes/css/color-themes/default-theme.css" rel="stylesheet">
-
 	<link rel="shortcut icon" href="includes/images/favicon.webp" type="image/x-icon">
 	<link rel="icon" href="includes/images/favicon.webp" type="image/x-icon">
-
-	<!-- Responsive -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-
 	<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 	<!--[if lt IE 9]><script src="includes/js/respond.js"></script><![endif]-->
 </head>
