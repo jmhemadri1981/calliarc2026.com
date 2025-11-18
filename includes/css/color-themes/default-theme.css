@@ -87,12 +87,12 @@ a,
 .shop-page .prod-tabs .add-review .rating .rate-box:active,
 .news-detail .inner-box .upper-box .post-meta li,
 .news-detail .post-share-options .social-box li a:hover{
-	color:#0060ff;
+	color:#f68222;
 }
 
 .sticky-header .main-menu .navigation > li:hover > a,
 .sticky-header .main-menu .navigation > li.current > a{
-	color:#0060ff !important;
+	color:#f68222 !important;
 }
 
 /* Background Color */
@@ -151,28 +151,28 @@ a,
 .sidebar-page-container .comments-area .comment-box .theme-btn,
 .main-header .sticky-header .outer-box .cart-box .cart-box-btn .total-cart,
 .main-menu .navigation > li:before{
-	background-color:#0060ff;
+	background-color:#f68222;
 }
 
 .experiance-tabs .tab-btns .tab-btn:before{
-	background: -webkit-radial-gradient(circle farthest-corner at center center, #0060ff 0%, #131E3C 100%);
-    background: -moz-radial-gradient(circle farthest-corner at center center, #0060ff 0%, #131E3C 100%);
-    background: radial-gradient(circle farthest-corner at center center, #0060ff 0%, #131E3C 100%);
+	background: -webkit-radial-gradient(circle farthest-corner at center center, #f68222 0%, #131E3C 100%);
+    background: -moz-radial-gradient(circle farthest-corner at center center, #f68222 0%, #131E3C 100%);
+    background: radial-gradient(circle farthest-corner at center center, #f68222 0%, #131E3C 100%);
 }
 
 .main-footer{
-	background: -webkit-radial-gradient(circle farthest-corner at center center, #0060ff 0%, #131E3C 100%);
-    background: -moz-radial-gradient(circle farthest-corner at center center, #0060ff 0%, #131E3C 100%);
-    background: radial-gradient(circle farthest-corner at center center, #0060ff 0%, #131E3C 100%);
+	background: -webkit-radial-gradient(circle farthest-corner at center center, #f68222 0%, #131E3C 100%);
+    background: -moz-radial-gradient(circle farthest-corner at center center, #f68222 0%, #131E3C 100%);
+    background: radial-gradient(circle farthest-corner at center center, #f68222 0%, #131E3C 100%);
 }
 
 .service-block .inner-box:before{
-    background-image: -ms-linear-gradient(top, #131E39 0%, #0060ff 100%);
-    background-image: -moz-linear-gradient(top, #131E39 0%, #0060ff 100%);
-    background-image: -o-linear-gradient(top, #131E39 0%, #0060ff 100%);
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #131E39), color-stop(100, #0060ff));
-    background-image: -webkit-linear-gradient(top, #131E39 0%, #0060ff 100%);
-    background-image: linear-gradient(to bottom, #131E39 0%, #0060ff 100%);
+    background-image: -ms-linear-gradient(top, #131E39 0%, #f68222 100%);
+    background-image: -moz-linear-gradient(top, #131E39 0%, #f68222 100%);
+    background-image: -o-linear-gradient(top, #131E39 0%, #f68222 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #131E39), color-stop(100, #f68222));
+    background-image: -webkit-linear-gradient(top, #131E39 0%, #f68222 100%);
+    background-image: linear-gradient(to bottom, #131E39 0%, #f68222 100%);
 }
 
 .about-section-two:before,
@@ -219,7 +219,7 @@ a,
 .contact-form .form-group input[type="tel"]:focus,
 .contact-form .form-group input[type="email"]:focus,
 .contact-form .form-group textarea:focus{
-	border-color:#0060ff;
+	border-color:#f68222;
 }
 
 @media only screen and (max-width: 767px){
