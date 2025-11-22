@@ -64,13 +64,13 @@
 	                        <h3>Mission</h3>
 							<h5 style="color:black">To empower organizations with modern, intelligent, and tailored digital solutions that accelerate growth, improve efficiency, and create meaningful business value.</h5>
 							<h3>Our Values</h3>
-							<ul>
-								<li><b>Customer First</b>&nbsp; Your success is our priority.</li>
-								<li><b>Quality & Reliability</b>&nbsp; We deliver solutions you can trust.</li>
-								<li><b>Innovation</b>&nbsp; We embrace new technologies to stay ahead.</li>
-								<li><b>Transparency</b>&nbsp; Transparency — Clear communication across every stage.</li>
-								<li><b>Long-term Partnerships</b>&nbsp; Long-term Partnerships — We grow when our clients grow.</li>
-							</ul>
+							
+							<h5 style="color:black"><b>Customer First</b>&nbsp; Your success is our priority.</h5>
+							<h5 style="color:black"><b>Quality & Reliability</b>&nbsp; We deliver solutions you can trust.</h5>
+							<h5 style="color:black">><b>Innovation</b>&nbsp; We embrace new technologies to stay ahead.</h5>
+							<h5 style="color:black"><b>Transparency</b>&nbsp; Transparency — Clear communication across every stage.</h5>
+							<h5 style="color:black"><b>Long-term Partnerships</b>&nbsp; Long-term Partnerships — We grow when our clients grow.</h5>
+							
 							<h3>A Trusted Technology Partner</h3>
 							<h5 style="color:black">Since 2013, CalliArc has helped startups, SMEs, and large enterprises transform ideas into world-class digital products. With a global list of clients and a proven development process, we ensure every solution is delivered efficiently, securely, and with unmatched quality.</h5>
 							<h3>Quality</h3>
