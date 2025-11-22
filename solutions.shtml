@@ -31,54 +31,7 @@
 		</header>
     <!-- End Main Header -->
 	
-	<!-- Sidebar Cart Item -->
-	<div class="xs-sidebar-group info-group">
-		<div class="xs-overlay xs-bg-black"></div>
-		<div class="xs-sidebar-widget">
-			<div class="sidebar-widget-container">
-				<div class="widget-heading">
-					<a href="solutions.shtml#" class="close-side-widget">
-						X
-					</a>
-				</div>
-				<div class="sidebar-textwidget">
-					
-					<!-- Sidebar Info Content -->
-					<div class="sidebar-info-contents">
-						<div class="content-inner">
-							<div class="logo">
-								<a href="index.shtml"><img src="includes/images/logo-2.webp" alt="CalliArc-logo" /></a>
-							</div>
-							<div class="content-box">
-								<h2>About Us</h2>
-								<p class="text">The argument in favor of using filler text goes something like this: If you use real content in the Consulting Process, anytime you reach a review point you’ll end up reviewing and negotiating the content itself and not the design.</p>
-								<a href="solutions.shtml#" class="theme-btn btn-style-two"><span class="txt">Consultation</span></a>
-							</div>
-							<div class="contact-info">
-								<h2>Contact Info</h2>
-								<ul class="list-style-one">
-									<li><span class="icon fa fa-location-arrow"></span>Chicago 12, Melborne City, USA</li>
-									<li><span class="icon fa fa-phone"></span>(111) 111-111-1111</li>
-									<li><span class="icon fa fa-envelope"></span>globex@gmail.com</li>
-									<li><span class="icon fa fa-clock-o"></span>Week Days: 09.00 to 18.00 Sunday: Closed</li>
-								</ul>
-							</div>
-							<!-- Social Box -->
-							<ul class="social-box">
-								<li class="facebook"><a href="solutions.shtml#" class="fa fa-facebook-f"></a></li>
-								<li class="twitter"><a href="solutions.shtml" class="fa fa-twitter"></a></li>
-								<li class="linkedin"><a href="solutions.shtml#" class="fa fa-linkedin"></a></li>
-								<li class="instagram"><a href="solutions.shtml#" class="fa fa-instagram"></a></li>
-								<li class="youtube"><a href="solutions.shtml#" class="fa fa-youtube"></a></li>
-							</ul>
-						</div>
-					</div>
-					
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- END sidebar widget item -->
+	
 	
 	<!--Page Title-->
     <section class="page-title">
@@ -101,37 +54,29 @@
 				<div class="news-detail">
 					<div class="inner-box">
 						<div class="upper-box">
-							<h3 style="text-align: center;"><span style="color:#f1c825;">JOIN</span> A FAST GROWING TEAM IN THE WORLD OF PRODUCT DEVELOPMENT</h3>
-							<ul class="post-meta">
-								<!-- <li><span class="icon flaticon-comment"></span>3 comments</li> -->
-								<!-- <li><span class="icon flaticon-user"></span>Admin</li> -->
-							</ul>
+							<h3 style="text-align: center;"><span style="color:#f68222;">JOIN</span> A FAST GROWING TEAM IN THE WORLD OF PRODUCT DEVELOPMENT</h3>				
+							<div class="text">At CalliArc, we help businesses accelerate growth with modern, future-ready technology solutions. From custom software and mobile applications to AI-driven automation and cloud transformation, our solutions are built to perform, scale, and evolve with your business.</div>			
 						</div>
 						<div class="image">
-							<img src="includes/images/resource/Domain.webp" alt="CalliArc-Domain" width="1000px" style="filter: drop-shadow(2px 4px 8px hsla(0, 0%, 0%, 0.5))" />
-							<!-- <div class="post-date">22 <span>DEC</span></div> -->
-						</div>
-							
+							<img src="includes/images/resource/Domain.webp" alt="CalliArc-Domain" width="1000px" style="filter: drop-shadow(2px 4px 8px hsla(0, 0%, 0%, 0.5))" />							
+						</div>							
 						<div class="lower-content">
-							<h4>CONTENT MANAGEMENT SOFTWARE</h4>
-							<p style="display: inline; float:left;">ERP is a web based application which is aimed at storing the content in an organized manner with data security and provides access to frequently change or update the content for each of the subjects or topics. This Application serves as a digital asset management system containing documents, movies, pictures, and also third party flash games. The application provides security on each of the content stored in to the application.SDL Globe has used technology to solve educational challenges to provide innovative, technology-enabled learning approaches, and to provide a high quality education at a reasonable cost.</p>
-							<!-- <img src="includes/images/resource/Domain.webp" alt="CalliArc-Domain" width="400px" style="filter: drop-shadow(2px 4px 8px hsla(0, 0%, 0%, 0.5))" /> -->
-							<h4>PLANT AND MACHINERY MAINTENANCE SOFTWARE</h4>
-							<p>Smart PAMMS- Plant and Machinery Maintenance Software is a revolutionary product. With Smart PAMMS you can track an unlimited number of tools & equipments. Management is easier than ever, you can store a description, make, model, serial number, photos, and more for each piece of equipment. Unlimited custom fields provide the flexibility you need to store information unique to your array of equipment. If using meter tracking, you can select from hours, miles, kilometers, etc., Smart PAMMS also provides wide range of preventive maintenance services that are already defined for you. When scheduled machines may result for unexpected repairs, Smart PAMMS automatically notifies you when they are in due, Smart PAMMS enables you to track and monitor trends in repair maintenance.</p>
-							
-							<blockquote>
-								<div class="blockquote-inner">
-									SmartH2R modules shape an intersection in between Human Resource Management (HRM) and Information Technology. It merges HRM as a discipline and in particular it’s basic HR activities and processes with the information technology field. Our HRMS product is more of a solution to all activities performed by the Human Resource department. It consists of range of functionalities covering the entire gamut of daily as well as dependent activities performed by the HR department. All functions from joining, training, payroll, leave, travel, helpdesk, appraisal and employee exit features have been automated.
-									<span class="quote-icon flaticon-quotation-mark"></span>
-								</div>
-							</blockquote>
-							<div class="row clearfix">
-								
-							</div>
-							
-							
-							</div>
-							
+							<h4>AI Agents & AI/ML Solutions</h4>
+							<div class="text">We build AI Agents, conversational systems, machine learning pipelines, and predictive analytics that help businesses work smarter, faster, and more efficiently. Whether you need process automation, smart decision-making tools, or personalized AI experiences — we deliver impactful results.</div>
+							<h4>Custom Software Development</h4>
+							<div class="text">We design and develop secure, robust, and scalable applications tailored to your workflows. From enterprise platforms to SaaS products, our team ensures your software is flexible, maintainable, and aligned with your long-term vision.</div>		
+							<h4>Mobile App Development</h4>
+							<div class="text">Our mobile experts create smooth, intuitive, and feature-rich applications that delight users and strengthen your digital presence. From consumer apps to enterprise mobility solutions, we deliver exceptional performance and usability.</div>		
+							<h4>Cloud Computing & DevOps</h4>
+							<div class="text">We help you migrate, optimize, and manage cloud environments with strong DevOps practices. Enjoy fast deployments, improved reliability, and infrastructure that grows with your needs — on AWS, Google Cloud, Azure, or hybrid setups.</div>		
+							<h4>Cybersecurity Solutions</h4>
+							<div class="text">We deliver end-to-end security solutions including penetration testing, risk assessments, compliance checks, identity management, and secure architecture design. Your digital ecosystem stays protected — always.</div>		
+							<h4>Software Modernization</h4>
+							<div class="text">We modernize outdated applications with new architectures, improved performance, and cloud-ready designs. Reduce technical debt, increase reliability, and accelerate innovation with a modern tech stack.</div>		
+							<h4>Business Intelligence & Data Analytics</h4>
+							<div class="text">Our BI and analytics solutions help you visualize trends, automate reporting, and uncover insights that drive better business outcomes. From dashboards to full data warehouses — we help you stay ahead.</div>		
+							<h4>Software Outsourcing & Dedicated Teams</h4>
+							<div class="text">Whether you need a full development team or specialized skills, CalliArc provides highly experienced developers, architects, QA engineers, and designers who integrate seamlessly with your existing workflows.</div>		
 						</div>
 					</aside>
 				</div>

@@ -769,7 +769,7 @@ img {
 .basic-6 {
   background: linear-gradient(currentColor 0 0) bottom / var(--d, 20%) 3px no-repeat;
   transition: 0.5s;
-  color: #f1c825;
+  color: #f68222;
 }
 .basic-6:hover {
   --d: 80%;
@@ -2735,7 +2735,7 @@ img {
   padding: 45px 15px;
   text-align: center;
   border-radius: 10px;
-  border: 1px dashed #f1c825;
+  border: 1px dashed #f68222;
   transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -2778,7 +2778,7 @@ img {
   -o-transition: all 0.3s ease;
 }
 .technology-block .inner-box:hover {
-  border-color: #f1c825;
+  border-color: #f68222;
   background-color: #000000b4;
 }
 .technology-block .inner-box:hover .icon-box {
