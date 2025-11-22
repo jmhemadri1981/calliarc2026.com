@@ -7,7 +7,7 @@
 	<link href="includes/css/bootstrap.css" rel="stylesheet">
 	<link href="includes/css/style.css" rel="stylesheet">
 	<link href="includes/css/responsive.css" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Nunito+Sans:wght@300;600;700;800;900&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet" />
 	<link href="includes/css/color-switcher-design.css" rel="stylesheet">
 	<link id="theme-color-file" href="includes/css/color-themes/default-theme.css" rel="stylesheet">
 	<link rel="shortcut icon" href="includes/images/favicon.webp" type="image/x-icon">
