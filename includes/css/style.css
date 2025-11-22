@@ -163,7 +163,7 @@ img {
   height: 100%;
   z-index: 1;
   opacity: 1;
-  background-color: #132144;
+  background-color: #c2c2c4;
   -webkit-transition: all 0.4s;
   -moz-transition: all 0.4s;
   -o-transition: all 0.4s;
@@ -451,7 +451,7 @@ img {
 .main-header .info-box ul li {
   position: relative;
   line-height: 20px;
-  color: #132144;
+  color: #c2c2c4;
   font-size: 16px;
   margin-bottom: 8px;
   font-weight: 400;
@@ -460,7 +460,7 @@ img {
 .main-header .info-box strong {
   position: relative;
   font-weight: 600;
-  color: #132144;
+  color: #c2c2c4;
   font-size: 18px;
   text-transform: capitalize;
   font-family: "Montserrat", sans-serif;
@@ -4589,13 +4589,13 @@ img {
   background: #ffffff;
   background: -webkit-linear-gradient(to right,
       rgba(255, 255, 255, 0) 0%,
-      #132144 100%);
+      #c2c2c4 100%);
   background: -moz-linear-gradient(to right,
       rgba(255, 255, 255, 0) 0%,
-      #132144 100%);
+      #c2c2c4 100%);
   background: linear-gradient(to right,
       rgba(255, 255, 255, 0) 0%,
-      #132144 100%);
+      #c2c2c4 100%);
 }
 .banner-section-three .slide {
   position: relative;
