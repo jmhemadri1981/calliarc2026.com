@@ -113,8 +113,8 @@
 
 			<div class="auto-container">
 				<h2 style="color:black; text-align: center; margin-top: 30px; font-weight: 500;">Trusted By <br><span
-						style="color:#1f4dfc;">500+ </span>Companies & <span style="color:#1f4dfc;">1Lakh+</span>
-					Employees IN <span style="color:#1f4dfc;">10+</span> Cites</h2>
+						style="color:#f68222;">500+ </span>Companies & <span style="color:#f68222;">1Lakh+</span>
+					Employees IN <span style="color:#f68222;">10+</span> Cites</h2>
 				<div class="carousel-outer">
 					<!--Sponsors Slider-->
 					<ul class="sponsors-carousel owl-carousel owl-theme">
@@ -348,7 +348,7 @@
 	<!-- End Services Section -->
 	<!--#include file="includes/components/services.html" -->
 	<!-- Call To Action Section -->
-	<section class="call-to-action-section" style="background: #1f4dfc">
+	<section class="call-to-action-section" style="background: #f68222">
 		<div class="auto-container">
 			<div class="row clearfix">
 				<!-- Heading Column -->
