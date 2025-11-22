@@ -58,21 +58,26 @@
 	                <div class="content-column col-lg-8 col-md-12 col-sm-12">
 	                    <div class="inner-column">
 	                        <!-- <div class="title">Project Manager</div> -->
-	                        <h2>Vision</h2>
-	                        <ul class="attorney-contact-info">
-	                            
-								<h5 style="color:black">To be amongst the top global players in offering customized products and solutions, enhancing value chain through innovation driven smartly.</h5>
-	                        </ul>
+	                        <h2>Vision</h2>	                        
+							<h5 style="color:black">To be a global leader in innovative software development by continuously adapting to emerging technologies and delivering excellence in every solution we build.</h5>
+	                        </ul>							
+	                        <h3>Mission</h3>
+							<h5 style="color:black">To empower organizations with modern, intelligent, and tailored digital solutions that accelerate growth, improve efficiency, and create meaningful business value.</h5>
+							<h3>Our Values</h3>
+							<ul>
+								<li><b>Customer First</b>&nbsp; Your success is our priority.</li>
+								<li><b>Quality & Reliability</b>&nbsp; We deliver solutions you can trust.</li>
+								<li><b>Innovation</b>&nbsp; We embrace new technologies to stay ahead.</li>
+								<li><b>Transparency</b>&nbsp; Transparency — Clear communication across every stage.</li>
+								<li><b>Long-term Partnerships</b>&nbsp; Long-term Partnerships — We grow when our clients grow.</li>
+							</ul>
+							<h3>A Trusted Technology Partner</h3>
+							<h5 style="color:black">Since 2013, CalliArc has helped startups, SMEs, and large enterprises transform ideas into world-class digital products. With a global list of clients and a proven development process, we ensure every solution is delivered efficiently, securely, and with unmatched quality.</h5>
+							<h3>Quality</h3>
+							<h5 style="color:black">Driven by Quality, Delivered With Excellence.<br>At CalliArc, quality is not a checkbox—it’s a culture. Every solution goes through careful planning, expert engineering, thorough QA, and ongoing refinement to ensure it performs flawlessly and delivers lasting value.</h5>
 							
-	                        <h3>MISSION</h3>
-							<h5 style="color:black">"Our mission is to provide tailored products and solutions that exceed our customers' expectations through continuous innovation and smart processes. We aim to enhance the value chain by leveraging cutting-edge technology and collaborating with our partners, while staying committed to sustainability and social responsibility."</h5>
-							<div class="lower-box lower-section">
-								<h3 style="color:black">Quality</h3>
-								<h5 style="color:black">SDL strives to achieve and maintain the highest standard of quality in all the products and services, to not only meet the expectations but also put every effort continuously to delight the customers which is SDL's main objective.</h5><br>
-								<h5 style="color:black">SDL assures to maintain the data security and integrity of customers while motivating and cultivating the quality standards adherence in each of our employee.</h5><br>
-								<h5 style="color:black">Our quality management system envisages policies to be periodically reviewed to ensure SDL team is able to perform the assigned tasks effectively and efficiently.</h5><br>
-								</div>
-							<!-- <p>Securing as informed declared or margaret. Joy horrible moreover man feelings own shy. Request norland neither mistake for yet. Between the for morning assured country believe. On even feet time have an no at. Relation so in confined smallest children unpacked delicate. Duis aute irure dolor in reprehenderit in voluptate. Joy horrible moreover man feelings own shy. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti soconubia nostra.</p> -->
+							
+							
 	                    </div>
 	                </div>
 					<div class="image-column col-lg-4 col-md-12 col-sm-12">
