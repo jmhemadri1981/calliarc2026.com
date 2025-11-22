@@ -334,7 +334,7 @@
 			<div class="pattern-layer-two" style="background-image: url(includes/images/background/pattern-12.webp)"></div>
 			<div class="auto-container">
 				<!-- Sec Title -->
-				<!--#include file="includes/components/process.html" -->	
+				
 			</div>
 		</section>
 		<!-- End Process Section -->
