@@ -117,20 +117,7 @@
 
 		<!--time line section-->
 		<section class="process-section">
-
-			<div class="auto-container">
-				 <div class="title"><h3 style="color:black; font-weight: bold">Vision</h3></div>                       
-				<div class="text">To be a global leader in innovative software development by continuously adapting to emerging technologies and delivering excellence in every solution we build.</div>
-				<div class="title"><h3 style="color:black; font-weight: bold">Mission</h3></div>                       
-				<div class="text">To empower organizations with modern, intelligent, and tailored digital solutions that accelerate growth, improve efficiency, and create meaningful business value.</div>
-				<div class="title"><h3 style="color:black; font-weight: bold">Our Values</h3></div>                       				
-				<ul>
-					<li><b>Customer First</b>&nbsp; Your success is our priority.</li>
-					<li><b>Quality & Reliability</b>&nbsp; We deliver solutions you can trust.</li>
-					<li><b>Innovation</b>&nbsp; We embrace new technologies to stay ahead.</li>
-					<li><b>Transparency</b>&nbsp; Clear communication across every stage</li>
-					<li><b>Long-term Partnerships</b>&nbsp; We grow when our clients grow.</li>
-				</ul>				
+						
 				<!-- Sec Title -->
 				<div class="sec-title centered" style="padding-top: 50px;">
 					<div class="title">Growing With Technology. Innovating With Purpose.</div>
@@ -412,83 +399,21 @@
 		<!-- Experiance Section -->
 		<section class="experiance-section" style="background-image: url(includes/images/background/pattern-9.webp)">
 			<div class="auto-container">
-				<!-- Sec Title -->
-				<div class="sec-title centered">
-					<div class="title">EXPERIENCE. EXECUTION. EXCELLENCE.</div>
-					<h2>What We Actually Do</h2>
-				</div>
-
-				<!-- Experiance Info Tabs -->
-				<div class="experiance-info-tabs">
-					<!-- Experiance Tabs -->
-					<div class="experiance-tabs tabs-box">
-
-						<!-- Tab Btns-->
-						<ul class="tab-btns tab-buttons clearfix">
-							<li data-tab="#prod-html" class="tab-btn"
-								><span class=""><img
-										src="includes/images/resource/Product-1.webp" alt="CalliArc-product"
-										style="position:relative; top:10px; width:190px; "></span></li>
-							<li data-tab="#prod-bootstrap" class="tab-btn active-btn"
-								><span class=""><img
-										src="includes/images/resource/Product-2.webp" alt="CalliArc-product"
-										style="position:relative; top:10px; width:190px;"></span></li>
-										<li data-tab="#prod-php" class="tab-btn"
-										><span class=""><img
-												src="includes/images/resource/Product-3.webp" alt="CalliArc-product"
-												style="position:relative; top:10px; width:190px; "></span></li>
-						<div class="tabs-content">
-
-							<!--Tab / Active Tab-->
-							<div class="tab" id="prod-html">
-								<div class="content">
-									<h4>H2R: Hire To Retire</h4>
-									<div class="text">Smart H2R is the best software to manage your employee's life cycle. </div>
-									<div class="btn-box text-center">
-										<a href="contact.shtml" class="theme-btn btn-style-three"><span
-												class="txt">Learn about our services</span></a>
-									</div>
-								</div>
-							</div>
-
-							<!-- Tab -->
-							<div class="tab" id="prod-bootstrap">
-								<div class="content">
-									<h4>SDL EduPro</h4>
-									<div class="text">SDL EDU PRO is a simple and user friendly school management software used by Schools and Universities.
-									It helps the school to manage student admissions process, class timings and others.</div>
-									<div class="btn-box text-center">
-										<a href="services.shtml" class="theme-btn btn-style-three"><span
-												class="txt">Learn about our services</span></a>
-									</div>
-								</div>
-							</div>
-							<div class="tab" id="prod-php">
-								<div class="content">
-									<h4>SDL ERP</h4>
-									<div class="text"> SDL ERP solutions automate and streamline your most important business processes</div>
-									<div class="btn-box text-center">
-										<a href="services.shtml" class="theme-btn btn-style-three"><span
-												class="txt">Learn about our services</span></a>
-									</div>
-								</div>
-							</div>
-
-							<!-- Tab -->
-							<div class="tab active-tab" id="prod-css">
-								<div class="content">
-									<h4>SDL EduPro</h4>
-									<div class="text">SDL EDU PRO is a simple and user friendly school management software used by Schools and Universities.
-										It helps the school to manage student admissions process, class timings and others.</div>
-									<div class="btn-box text-center">
-										<a href="services.shtml" class="theme-btn btn-style-three"><span
-												class="txt">Learn about our services</span></a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+				<div class="auto-container">
+				 <div class="title"><h3 style="color:black; font-weight: bold">Vision</h3></div>                       
+				<div class="text">To be a global leader in innovative software development by continuously adapting to emerging technologies and delivering excellence in every solution we build.</div>
+				<div class="title"><h3 style="color:black; font-weight: bold">Mission</h3></div>                       
+				<div class="text">To empower organizations with modern, intelligent, and tailored digital solutions that accelerate growth, improve efficiency, and create meaningful business value.</div>
+				<div class="title"><h3 style="color:black; font-weight: bold">Our Values</h3></div>                       				
+				<ul>
+					<li><b>Customer First</b>&nbsp; Your success is our priority.</li>
+					<li><b>Quality & Reliability</b>&nbsp; We deliver solutions you can trust.</li>
+					<li><b>Innovation</b>&nbsp; We embrace new technologies to stay ahead.</li>
+					<li><b>Transparency</b>&nbsp; Clear communication across every stage</li>
+					<li><b>Long-term Partnerships</b>&nbsp; We grow when our clients grow.</li>
+				</ul>	
+				
+				
 			</div>
 		</section>
 		<!-- End Experiance Section -->
