@@ -329,24 +329,13 @@
 		</section>
 		<!--End Sponsors Section-->
 
-		<!-- Process Section -->
-		<section class="process-section">
-			<div class="pattern-layer-one" style="background-image: url(includes/images/background/pattern-11.webp)"></div>
-			<div class="pattern-layer-two" style="background-image: url(includes/images/background/pattern-12.webp)"></div>
-			<div class="auto-container">
-				<!-- Sec Title -->
-				<!--#include file="includes/components/process.html" -->	
-			</div>
-		</section>
-		<!-- End Process Section -->
-
 		<!-- Technology Section -->
 		<section class="technology-section style-two" >			
 			<div class="auto-container">
 				<!-- Sec Title -->
 				<div class="sec-title light centered">
-					<div class="title">TECHNOLOGY INDEX</div>
-					<h2>Real-time monitoring of your infrastructure <br>with branded digital solutions.</h2>
+					<div class="title">Our 5D Delivery Framework</div>
+					<h2>Clear, repeatable workflow—from discovery to delivery. Animated for clarity and impact.</h2>
 				</div>
 				<div class="row clearfix">
 
@@ -356,8 +345,8 @@
 							<a href="services.shtml" class="overlay-link"></a>
 							<div class="icon-box">
 								<span class="flaticon-dashboard"></span>
-							</div>
-							<h6>Data Analytics</h6>
+							</div>	
+							<h6>Discover</h6>
 						</div>
 					</div>
 
@@ -368,7 +357,7 @@
 							<div class="icon-box">
 								<span class="flaticon-coding-3"></span>
 							</div>
-							<h6>Web Develpment</h6>
+							<h6>Design & Develop</h6>
 						</div>
 					</div>
 
@@ -379,7 +368,7 @@
 							<div class="icon-box">
 								<span class="flaticon-design"></span>
 							</div>
-							<h6>Ul/UX Design</h6>
+							<h6>Debug & Optimize</h6>
 						</div>
 					</div>
 
@@ -390,7 +379,7 @@
 							<div class="icon-box">
 								<span class="flaticon-web-browser"></span>
 							</div>
-							<h6>QA & Testing</h6>
+							<h6>Deploy</h6>
 						</div>
 					</div>
 
@@ -401,7 +390,7 @@
 							<div class="icon-box">
 								<span class="flaticon-network-1"></span>
 							</div>
-							<h6>Dedicated Team</h6>
+							<h6>Deliver & Support</h6>
 						</div>
 					</div>
 
