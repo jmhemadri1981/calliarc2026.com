@@ -55,8 +55,7 @@
 				<!-- Sec Title -->
 				<div class="sec-title">
 					<div class="title">
-						<h3 style="color:black; font-weight: bold">ABOUT <span style="color:#f68222;display: inline; font-weight: bold" class="basic-6">COMPANY</span>
-						</h3>
+						<h3 style="color:black; font-weight: bold">About <span style="color:#f68222;display: inline; font-weight: bold" class="basic-6">CalliArc</span></h3>
 					</div>
 					<!-- <h5>You Can not Use Up <br> Creativity.</h5> -->
 				</div>
@@ -119,9 +118,21 @@
 		<!--time line section-->
 		<section class="process-section">
 
-			<div class="auto-container" >
+			<div class="auto-container">
+				 <div class="title"><h3 style="color:black; font-weight: bold">Vision</h3></div>                       
+				<div class="text">To be a global leader in innovative software development by continuously adapting to emerging technologies and delivering excellence in every solution we build.</div>
+				<div class="title"><h3 style="color:black; font-weight: bold">Mission</h3></div>                       
+				<div class="text">To empower organizations with modern, intelligent, and tailored digital solutions that accelerate growth, improve efficiency, and create meaningful business value.</div>
+				<div class="title"><h3 style="color:black; font-weight: bold">Our Values</h3></div>                       				
+				<ul>
+					<li><b>Customer First</b>&nbsp; Your success is our priority.</li>
+					<li><b>Quality & Reliability</b>&nbsp; We deliver solutions you can trust.</li>
+					<li><b>Innovation</b>&nbsp; We embrace new technologies to stay ahead.</li>
+					<li><b>Transparency</b>&nbsp; Clear communication across every stage</li>
+					<li><b>Long-term Partnerships</b>&nbsp; We grow when our clients grow.</li>
+				</ul>				
 				<!-- Sec Title -->
-				<div class="sec-title centered" >
+				<div class="sec-title centered" style="padding-top: 50px;">
 					<div class="title">Growing With Technology. Innovating With Purpose.</div>
 					<div class="text">This timeline highlights CalliArc’s journey of adopting and mastering modern technologies — evolving from traditional development to advanced AI and automation capabilities.</div>
 				</div>
