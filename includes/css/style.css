@@ -579,7 +579,7 @@ img {
 }
 .sticky-header .main-menu .navigation>li:hover>a,
 .sticky-header .main-menu .navigation>li.current>a {
-  color: #1100ff;
+  color: #f68222;
   background-color: inherit !important;
 }
 .sticky-header .nav-outer .options-box {
