@@ -340,9 +340,7 @@
 		<!-- End Process Section -->
 
 		<!-- Technology Section -->
-		<section class="technology-section style-two" style="background-image: url(includes/images/background/1.webp.shtml)">
-			<div class="pattern-layer-one" style="background-image: url(includes/images/background/pattern-5.swebp)"></div>
-			<div class="pattern-layer-two" style="background-image: url(includes/images/background/pattern-6.swebp)"></div>
+		<section class="technology-section style-two" >			
 			<div class="auto-container">
 				<!-- Sec Title -->
 				<div class="sec-title light centered">
