@@ -105,61 +105,7 @@
 		</div>
 	</section>
 	<!-- End Contact Map Section -->
-	<!-- Contact Info Section -->
-	<section class="contact-info-section">
-		<div class="auto-container">
-			<!-- Sec Title -->
-			<div class="title-box">
-				<div class="title">GET IN TOUCH</div>
-				<h2>A Monthly Project Fee <br> Price Plans</h2>
-				<div class="text">For general enquires you can touch with our front desk supporting team <br> at <a href="mailto:contact@calliarc.com">contact@calliarc.com</a> or call on <a href="tel:+91-8035893531">+91-8035893531</a></div>
-			</div>
-			
-			<div class="row clearfix">
-			
-				<!-- Info Column -->
-				<div class="info-column col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-column">
-						<div class="content">
-							<div class="icon-box"><span class="flaticon-pin"></span></div>
-							<ul>
-								<li><strong>Address</strong></li>
-								<li >CalliArc<br># 20-3-4/B, Siva Jyothi Nagar, Opp. Srivari Sannidi Lane, Tirupati, Andhra Pradesh, India - 517501</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Info Column -->
-				<div class="info-column col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-column">
-						<div class="content">
-							<div class="icon-box"><span class="flaticon-phone-call"></span></div>
-							<ul>
-								<li><strong>Phone</strong></li>
-								<li>+91 8023414488<br> +91 8025714488</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Info Column -->
-				<div class="info-column col-lg-4 col-md-6 col-sm-12">
-					<div class="inner-column">
-						<div class="content">
-							<div class="icon-box"><span class="flaticon-email-1"></span></div>
-							<ul>
-								<li><strong>E-Mail</strong></li>
-								<li>contact@calliarc.com</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-			
-		</div>
-	</section>
-	<!-- End Contact Info Section -->
+
 	
 	<!-- Map Section -->
 	<section class="contact-map-section">
