@@ -1718,7 +1718,7 @@ img {
 .about-section {
   position: relative;
   overflow: hidden;
-  padding: 130px 0px 100px;
+  padding: 130px 0px 20px;
 }
 .about-section .content-column {
   position: relative;
@@ -4039,7 +4039,7 @@ img {
 ***/
 .process-section {
   position: relative;
-  padding: 100px 0px 70px;
+  padding: 20px 0px 70px;
 }
 .process-section .pattern-layer-one {
   position: absolute;

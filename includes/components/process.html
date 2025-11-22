@@ -1,0 +1,209 @@
+<style>
+  :root{
+    --orange: #F68222;
+    --navy:   #0A1D37;
+    --bg: #ffffff;
+    --card-bg: #ffffff;
+    --muted: #6b7280;
+  }
+  html,body{height:100%;margin:0;font-family:Inter, "Nunito Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;}
+  body{background:var(--bg);color:var(--navy);-webkit-font-smoothing:antialiased;display:flex;align-items:center;justify-content:center;padding:40px;}
+
+  .wrap{max-width:1400px;width:100%;}
+
+  .heading{
+    text-align:center;
+    margin-bottom:28px;
+  }
+  .heading h1{
+    margin:0;
+    font-size:40px;
+    line-height:1.05;
+    font-weight:700;
+  }
+  .heading p{
+    margin:10px 0 0;
+    color:var(--muted);
+    font-size:18px;
+  }
+
+  /* Canvas area */
+  .timeline-canvas{
+    position:relative;
+    padding:48px 28px 20px;
+    background:linear-gradient(180deg, rgba(10,29,55,0.02), rgba(255,255,255,0));
+    border-radius:18px;
+    box-shadow: 0 8px 28px rgba(10,29,55,0.06);
+    overflow:visible;
+  }
+
+  /* The curved path (SVG) - responsive width */
+  .timeline-svg{ width:100%; height:220px; display:block; }
+
+  /* Markers below */
+  .steps{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:12px;
+    margin-top:18px;
+  }
+
+  .step{
+    flex:1 1 0;
+    text-align:center;
+    transform: translateY(18px);
+    opacity:0;
+    transition:transform .6s cubic-bezier(.22,.9,.37,1), opacity .6s;
+  }
+  .step.visible{ transform:none; opacity:1; }
+
+  .icon-round{
+    width:64px; height:64px; border-radius:50%;
+    display:inline-flex; align-items:center; justify-content:center;
+    background:#fff; border:4px solid var(--navy); box-shadow:0 6px 18px rgba(10,29,55,0.06);
+    margin-bottom:10px; position:relative;
+    transition: transform .35s ease;
+  }
+  .icon-round.orange{ background:var(--orange); color:#fff; border-color:var(--orange); box-shadow:none; }
+  .icon-round.navy{ background:var(--navy); color:#fff; border-color:var(--navy); box-shadow:none; }
+
+  .step h3{ margin:6px 0 0; font-size:18px; color:var(--navy); }
+  .step p{ margin:6px 0 0; color:var(--muted); font-size:14px; }
+
+  /* number under icon */
+  .step .num{ font-weight:700; font-size:28px; color:var(--orange); display:block; margin-top:6px; }
+
+  /* Path animation */
+  .path { stroke:var(--navy); stroke-width:24; stroke-linecap:round; fill:none; stroke-dasharray: 1000; stroke-dashoffset: 1000; filter: drop-shadow(0 8px 18px rgba(10,29,55,0.08)); }
+  .path.draw { animation: draw 1.6s cubic-bezier(.2,.9,.3,1) forwards; }
+
+  @keyframes draw {
+    to { stroke-dashoffset: 0; }
+  }
+
+  /* Pulsing bubbles for each marker */
+  .marker { fill:var(--orange); opacity:0; transform-origin:center; transition:transform .4s, opacity .4s; }
+  .marker.visible{ opacity:1; transform:scale(1); animation: pop .45s ease; }
+  @keyframes pop { from{ transform:scale(.6) } to{ transform:scale(1); } }
+
+  /* Icon pop on hover */
+  .icon-round:hover{ transform: translateY(-6px) scale(1.05); cursor:pointer; }
+
+  /* Responsive tweaks */
+  @media (max-width:920px){
+    .heading h1{ font-size:30px; }
+    .timeline-svg{ height:180px; }
+    .icon-round{ width:56px;height:56px; }
+  }
+
+  @media (max-width:640px){
+    .steps{ gap:8px; }
+    .step h3{ font-size:15px; }
+    .step .num{ font-size:22px; }
+  }
+
+  /* subtle connector animation (tiny dots) */
+  .dot{ fill:var(--navy); opacity:0; transform:translateY(-6px); transition:opacity .5s, transform .5s; }
+  .dot.show{ opacity:1; transform:none; }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <div class="heading">
+    <h1><span style="color:var(--orange)">Our</span> 5D Delivery Framework</h1>
+    <p>Clear, repeatable workflow—from discovery to delivery. Animated for clarity and impact.</p>
+  </div>
+
+  <div class="timeline-canvas" id="timelineCanvas">
+   
+
+    <!-- Steps below the curve -->
+    <div class="steps" id="stepsRow" aria-hidden="false">
+      <div class="step" data-idx="0">
+        <div class="icon-round orange" aria-hidden="true">🔍</div>
+        <span class="num">01</span>
+        <h3>Discover</h3>
+        <p>Research, workshops and clear scope definition to align on goals.</p>
+      </div>
+
+      <div class="step" data-idx="1">
+        <div class="icon-round navy" aria-hidden="true">🧭</div>
+        <span class="num">02</span>
+        <h3>Design & Develop</h3>
+        <p>Architecture, UX and high-quality engineering for scalable products.</p>
+      </div>
+
+      <div class="step" data-idx="2">
+        <div class="icon-round orange" aria-hidden="true">⚙️</div>
+        <span class="num">03</span>
+        <h3>Debug & Optimize</h3>
+        <p>Rigorous QA, tuning and security hardening to ensure reliability.</p>
+      </div>
+
+      <div class="step" data-idx="3">
+        <div class="icon-round navy" aria-hidden="true">🚀</div>
+        <span class="num">04</span>
+        <h3>Deploy</h3>
+        <p>CI/CD powered releases and monitored rollouts for zero-downtime.</p>
+      </div>
+
+      <div class="step" data-idx="4">
+        <div class="icon-round orange" aria-hidden="true">🤝</div>
+        <span class="num">05</span>
+        <h3>Deliver & Support</h3>
+        <p>Training, monitoring and long-term support for continuous improvement.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  // If you want to use the PNG asset as background replace the following variable:
+  // const BACKGROUND_IMAGE_URL = '/mnt/data/A_2D_digital_infographic_titled_"Our_5D_Delivery_F.png';
+  const BACKGROUND_IMAGE_URL = null; // set a path if needed
+
+  document.addEventListener('DOMContentLoaded', function(){
+    const path = document.getElementById('mainPath');
+    // start path draw
+    setTimeout(()=> path.classList.add('draw'), 200);
+
+    // reveal markers and steps sequentially
+    const markers = ['m1','m2','m3','m4','m5'].map(id => document.getElementById(id));
+    const bubbles = ['b1','b2','b3','b4','b5'].map(id => document.getElementById(id));
+    const steps = Array.from(document.querySelectorAll('.step'));
+
+    // reveal sequence timing
+    markers.forEach((m,i)=>{
+      setTimeout(()=> m.classList.add('show'), 700 + i*220);
+    });
+
+    bubbles.forEach((b,i)=>{
+      setTimeout(()=> {
+        // set bubble color alternation (orange/navy)
+        const circ = b.querySelector('.marker');
+        circ.style.fill = (i % 2 === 0) ? 'var(--orange)' : 'var(--navy)';
+        b.classList.add('visible');
+        circ.classList.add('visible');
+      }, 850 + i*220);
+    });
+
+    steps.forEach((s,i)=>{
+      setTimeout(()=> s.classList.add('visible'), 1050 + i*220);
+    });
+
+    // Add small hover grow for icons
+    document.querySelectorAll('.icon-round').forEach(el=>{
+      el.addEventListener('mouseenter', ()=> el.style.transform='translateY(-6px) scale(1.06)');
+      el.addEventListener('mouseleave', ()=> el.style.transform='none');
+    });
+
+    // If you set BACKGROUND_IMAGE_URL to a valid local path, apply as background:
+    if(BACKGROUND_IMAGE_URL){
+      document.querySelector('.timeline-canvas').style.backgroundImage = `url("${BACKGROUND_IMAGE_URL}")`;
+      document.querySelector('.timeline-canvas').style.backgroundSize = 'cover';
+      document.querySelector('.timeline-canvas').style.backgroundPosition = 'center';
+    }
+  });
+</script>

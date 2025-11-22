@@ -47,22 +47,7 @@
 			</div>
 		</section>
 		<!--End Page Title-->
-		<!--time line section-->
-		<section class="process-section">
-
-			<div class="auto-container" >
-				<!-- Sec Title -->
-				<div class="sec-title centered" >
-					<div class="title">Time Line of SDL Globe </div>
-					<h2 style="font-weight:500;">From Start-Up to Leading Software Development Company: <br> Our Journey at CalliArc </h2>
-				</div>
-
-				<div class="row clearfix" >
-					<img src="includes/images/timline-2.webp" alt ="CalliArc-Timeline"style="background-size: cover;" />
-				</div>
-			</div>
-		</section>
-		<!--End Of time line section-->
+		
 		
 		<!-- About Section -->
 		<section class="about-section">
@@ -70,8 +55,7 @@
 				<!-- Sec Title -->
 				<div class="sec-title">
 					<div class="title">
-						<h3 style="color:black; font-weight: bold">ABOUT <span
-								style="color:#f1c825;display: inline; font-weight: bold" class="basic-6">COMPANY</span>
+						<h3 style="color:black; font-weight: bold">ABOUT <span style="color:#f68222;display: inline; font-weight: bold" class="basic-6">COMPANY</span>
 						</h3>
 					</div>
 					<!-- <h5>You Can not Use Up <br> Creativity.</h5> -->
@@ -81,7 +65,8 @@
 					<!-- Content Column -->
 					<div class="content-column col-lg-6 col-md-12 col-sm-12">
 						<div class="inner-column">
-							<div class="text">CalliArc is one of the leading software development companie, founded in 2009, providing enterprise solutions and consulting services. CalliArcoffers software end-to-end solutions and IT consulting services to various organizations, ranging from small to large corporations, for the optimization of business processes and growth.</div>
+							<div class="text">CalliArc was founded in 2013 with a simple but powerful vision — to help businesses unlock their full potential through reliable, innovative, and scalable technology solutions. What began as a small development team has grown into a full-service software development company serving clients across industries and countries.</div>
+							<div class="text">Over the years, we’ve built a strong reputation for delivering custom software, mobile applications, AI/ML-driven solutions, cloud transformations, and enterprise-grade platforms that drive real business outcomes.</div>
 							<div class="blocks-outer">
 
 								<!-- Feature Block -->
@@ -89,8 +74,7 @@
 									<div class="inner-box">
 										<div class="icon flaticon-award-1"></div>
 										<h6>Experience</h6>
-										<div class="feature-text">Our great team of more than 1400 software experts.
-										</div>
+										<div class="feature-text">With over a decade of delivering high-quality digital solutions, our team brings deep technical expertise across software development, mobile applications, cloud engineering, AI/ML, and enterprise platforms. Every project benefits from our proven processes, industry knowledge, and commitment to excellence.</div>
 									</div>
 								</div>
 
@@ -99,18 +83,10 @@
 									<div class="inner-box">
 										<div class="icon flaticon-technical-support"></div>
 										<h6>Quick Support</h6>
-										<div class="feature-text">We’ll help you test bold new ideas.
-										</div>
+										<div class="feature-text">We believe great technology is backed by great support. Our team is always ready to assist you with fast responses, clear guidance, and reliable solutions — ensuring your systems run smoothly and your business never slows down.</div>
 									</div>
 								</div>
-
 							</div>
-
-							<a href="https://www.youtube.com/watch?v=sbfGbPCmf7w"
-								class="lightbox-image theme-btn btn-style-one"><span class="txt"><i
-										class="play-icon"><img src="includes/images/icons/play-icon.webp" alt="youtube" /></i>&ensp;
-									intro Video</span></a>
-
 						</div>
 					</div>
 
@@ -140,6 +116,23 @@
 		</section>
 		<!-- End About Section -->
 
+		<!--time line section-->
+		<section class="process-section">
+
+			<div class="auto-container" >
+				<!-- Sec Title -->
+				<div class="sec-title centered" >
+					<div class="title">Growing With Technology. Innovating With Purpose.</div>
+					<div class="text">This timeline highlights CalliArc’s journey of adopting and mastering modern technologies — evolving from traditional development to advanced AI and automation capabilities.</div>
+				</div>
+
+				<div class="row clearfix" >
+					<img src="includes/images/timeline.webp" alt ="CalliArc-Timeline" style="background-size: cover;"  />
+				</div>
+			</div>
+		</section>
+		<!--End Of time line section-->
+
 		<!-- <div style="border: 3px solid #F2C826" height="1px"></div> -->
 		<!-- Counter Section -->
 		<section class="counter-section"  >
@@ -154,7 +147,7 @@
 								<div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 									<div class="content">
 										<div class="count-outer count-box">
-											<span class="count-text" data-speed="3000" data-stop="330">0</span>+
+											<span class="count-text" data-speed="3000" data-stop="324">0</span>+
 										</div>
 										<h4 class="counter-title">ACTIVE CLIENTS</h4>
 									</div>
@@ -166,7 +159,7 @@
 								<div class="inner wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
 									<div class="content">
 										<div class="count-outer count-box alternate">
-											<span class="count-text" data-speed="5000" data-stop="850">0</span>+
+											<span class="count-text" data-speed="5000" data-stop="535">0</span>+
 										</div>
 										<h4 class="counter-title">PROJECTS DONE</h4>
 									</div>
@@ -190,7 +183,7 @@
 								<div class="inner wow fadeInLeft" data-wow-delay="900ms" data-wow-duration="1500ms">
 									<div class="content">
 										<div class="count-outer count-box">
-											<span class="count-text" data-speed="3500" data-stop="10">0</span>+
+											<span class="count-text" data-speed="3500" data-stop="12">0</span>+
 										</div>
 										<h4 class="counter-title">GLORIOUS YEARS</h4>
 									</div>
@@ -341,46 +334,7 @@
 			<div class="pattern-layer-two" style="background-image: url(includes/images/background/pattern-12.webp)"></div>
 			<div class="auto-container">
 				<!-- Sec Title -->
-				<div class="sec-title centered">
-					<div class="title">OUR PROCESS</div>
-					<h2>From discovery to implementation, <br>  we've got you covered.</h2>
-				</div>
-				<div class="row clearfix">
-
-					<!-- Process Block -->
-					<div class="process-block col-lg-4 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-							<div class="number-box">01</div>
-							<h4><a href="services.shtml">Discover Your Needs</a></h4>
-							<div class="text">Our team will work with you to understand your HR management and payroll needs, as well as your web development, UI/UX design, mobile app development, and QA testing needs. </div>
-							<a class="read-more" href="services.shtml"><span
-									class="arrow flaticon-long-arrow-pointing-to-the-right"></span>Read More</a>
-						</div>
-					</div>
-
-					<!-- Process Block -->
-					<div class="process-block col-lg-4 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-							<div class="number-box">02</div>
-							<h4><a href="services.shtml">Design and Develop</a></h4>
-							<div class="text">Once we have a clear understanding of your needs, our team of experts will design and develop customized software, websites, and mobile apps that are user-friendly, visually appealing, and optimized for performance. </div>
-							<a class="read-more" href="services.shtml"><span
-									class="arrow flaticon-long-arrow-pointing-to-the-right"></span>Read More</a>
-						</div>
-					</div>
-
-					<!-- Process Block -->
-					<div class="process-block col-lg-4 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-							<div class="number-box">03</div>
-							<h4><a href="services.shtml">Implement and Support</a></h4>
-							<div class="text">After design and development, we will implement our solutions and provide ongoing support to ensure that they continue to meet your evolving business needs. Our team will work closely with you to address any issues or concerns</div>
-							<a class="read-more" href="services.shtml"><span
-									class="arrow flaticon-long-arrow-pointing-to-the-right"></span>Read More</a>
-						</div>
-					</div>
-
-				</div>
+				<!--#include file="includes/components/process.html" -->	
 			</div>
 		</section>
 		<!-- End Process Section -->
