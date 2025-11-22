@@ -40,9 +40,7 @@
 		<section class="sponsors-section style-two">
 
 			<div class="auto-container">
-				<h2 style="color:black; text-align: center; margin-top: 30px; font-weight: 500;">Trusted By <br><span
-						style="color:#f68222;">500+ </span>Companies & <span style="color:#f68222;">1Lakh+</span>
-					Employees IN <span style="color:#f68222;">10+</span> Cites</h2>
+				<h2 style="color:black; text-align: center; margin-top: 30px; font-weight: 500;">Trusted By</h2>
 				<div class="carousel-outer">
 					<!--Sponsors Slider-->
 					<ul class="sponsors-carousel owl-carousel owl-theme">
@@ -179,10 +177,10 @@
 						<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"
 							style="background-image: url(includes/images/resource/feature-1.webp)" ">
 								<div class=" number counter-column">
-							<span style="color: #f68222">10 +</span>
+							<span style="color: #f68222">325 +</span>
 						</div>
-						<h4>Cites</h4>
-						<div class="text"> Empowering the world's cities with innovative solutions </div>
+						<h4>Happy Clients</h4>
+						<div class="text"> partnering for success, delivering excellence.</div>
 					</div>
 				</div>
 				<!-- Featured Block Two -->
@@ -190,10 +188,10 @@
 					<div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms"
 						style="background-image: url(includes/images/resource/feature-2.webp)">
 						<div class="number">
-							<span style="color: #f68222">500 +</span>
+							<span style="color: #f68222">535 +</span>
 						</div>
-						<h4>Happy Clients</h4>
-						<div class="text"> partnering for success, delivering excellence.</div>
+						<h4>Projects</h4>
+						<div class="text">successfully delivering projects</div>
 					</div>
 				</div>
 			</div>
