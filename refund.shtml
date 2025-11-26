@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<!--#include file="includes/components/meta.html" -->
+<link href="includes/css/bootstrap.css" rel="stylesheet">
+<link href="includes/css/style.css" rel="stylesheet">
+<link href="includes/css/responsive.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet" />
+<link href="includes/css/color-switcher-design.css" rel="stylesheet">
+<link id="theme-color-file" href="includes/css/color-themes/default-theme.css" rel="stylesheet">
+<link rel="shortcut icon" href="includes/images/favicon.webp" type="image/x-icon">
+<link rel="icon" href="includes/images/favicon.webp" type="image/x-icon">
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+<style>
+    h1{
+        font-weight: bold;
+        color:black;
+    }
+    p{
+        color:#232323
+    }
+</style>
+</head>
+
+<body class="hidden-bar-wrapper">
+
+<div class="page-wrapper">
+ 	
+    <!-- Preloader -->
+    <div class="preloader-2"></div>
+ 	
+ 	<!-- Main Header-->
+	<header class="main-header header-style-one">
+			<!--#include file="includes/components/top-contact.html" -->
+			<!--#include file="includes/components/header.html" -->
+		</header>
+    <!-- End Main Header -->
+	
+	<!--Page Title-->
+    <section class="page-title">
+		<div class="pattern-layer-one " style="background-image: url(includes/images/background/pattern-16.webp)"></div>
+    	<div class="auto-container">
+			<h2 >Refund Policy
+			</h2>
+			<ul class="page-breadcrumb">
+				<li><a href="index.shtml">home</a></li>
+				<li>Privacy Policy</li>
+			</ul>
+        </div>
+    </section>
+    <!--End Page Title-->
+	
+	<!-- Team Detail Section -->
+	<div class="slide" style="background-image: url(includes/images/resource/people.pg.html); background-size: cover; ">
+	<section class="team-detail-section " id="innovative" >
+	    <div class="auto-container" >
+	        <div class="upper-box">
+	            <div class="row clearfix">
+	                <!-- Image Column -->
+	                
+	                <!-- Content Column -->
+	                <div class="content-column col-lg-8 col-md-12 col-sm-12">
+	                    <div class="inner-column">
+	                        <!-- <div class="title">Project Manager</div> -->
+	                        <h1>Refund Policy</h1>
+	                        <ul class="attorney-contact-info">	                          
+                                <p>Last updated: November 18, 2025</p>
+                                All our clients are very important to us, that's why test ("Company"), has created the following Refund Policy to let You know how we handle the refunds for the goods ordered and bought on our website https://calliarc.com ("Website").<br><br>
+                                The terms "You," "Your," and "Yours" refer to the entity/ person/ organization using our Website. When this Policy mentions "we", "us,", and "our" it refers to the Company and its subsidiaries or /and affiliates. The term "goods" refer to any product or item bought on our Website by You.<br><br>
+                                This Refund Policy is governed by our Terms of Services.<br><br>
+                                For any questions regarding this Refund Policy or any requests regarding the refunds and returns, please contact us by email sumana@spmvv.ac.in>, phone +91 9247873911 or other contacts provided below.<br><br>
+                                You have the right, without giving a reason, to return the goods within 14 days, if it has not been used, damaged or its appearance has not substantially changed, that is, the appearance of the product or its packaging has been made only such alterations as were necessary to inspect the goods received.<br><br>
+                                The right to withdraw from a distance contract within 14 days without giving a reason does not apply to legal persons (e.g. companies, entrepreneurs).<br><br>
+                                This Return policy does not limit Your statutory rights to withdraw or rights You may have in relation to incorrect, damaged or defective goods.<br><br>
+  
+                               
+                                
+                                <br>
+								</div>
+							<!-- <p>Securing as informed declared or margaret. Joy horrible moreover man feelings own shy. Request norland neither mistake for yet. Between the for morning assured country believe. On even feet time have an no at. Relation so in confined smallest children unpacked delicate. Duis aute irure dolor in reprehenderit in voluptate. Joy horrible moreover man feelings own shy. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti soconubia nostra.</p> -->
+	                    </div>
+	                </div>
+					<div class="image-column col-lg-4 col-md-12 col-sm-12">
+						<div class="inner-column">
+							<div class="image">
+								<img src="includes/images/resource/privacypolicy.png" alt="CalliArc-innovation" />
+							</div>
+						</div>
+					</div>
+	            </div>
+	        </div>
+		
+	        
+				<div class="buttons-box clearfix">
+					<div class="pull-left">
+	                    <!-- <a href="#" class="theme-btn btn-style-three"><span class="txt"><i class="fa fa-angle-double-left"></i>&nbsp;Previous</span></a> -->
+	                </div>
+	                <div class="pull-right">
+	                    <!-- <a href="#" class="theme-btn btn-style-three"><span class="txt">Next&nbsp;<i class="fa fa-angle-double-right"></i></span></a> -->
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</section>
+</div>
+	<!-- End Team Detail Section -->
+		
+	<!--#include file="includes/components/footer.html" -->
+
+
+</div>
+<!--End pagewrapper-->
+
+
+<!-- Search Popup -->
+<div class="search-popup">
+	<button class="close-search style-two"><span class="flaticon-multiply"></span></button>
+	<button class="close-search"><span class="flaticon-up-arrow-1"></span></button>
+	<form method="post" action="https://calliarc.com/blog.html">
+		<div class="form-group">
+			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
+			<button type="submit"><i class="fa fa-search"></i></button>
+		</div>
+	</form>
+</div>
+<!-- End Header Search -->
+
+<!--Scroll to top-->
+<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-up"></span></div>
+
+<script src="includes/js/jquery.js"></script>
+<script src="includes/js/popper.min.js"></script>
+<script src="includes/js/bootstrap.min.js"></script>
+<script src="includes/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="includes/js/jquery.fancybox.js"></script>
+<script src="includes/js/appear.js"></script>
+<script src="includes/js/mixitup.js"></script>
+<script src="includes/js/parallax.min.js"></script>
+<script src="includes/js/tilt.jquery.min.js"></script>
+<script src="includes/js/jquery.paroller.min.js"></script>
+<script src="includes/js/owl.js"></script>
+<script src="includes/js/wow.js"></script>
+<script src="includes/js/nav-tool.js"></script>
+<script src="includes/js/jquery-ui.js"></script>
+<script src="includes/js/script.js"></script>
+<script src="includes/js/color-settings.js"></script>
+
+</body>
+
+</html>
