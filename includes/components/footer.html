@@ -140,3 +140,26 @@
         </div>
     </div>
 </footer>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    // Get current page file name (e.g., "about.shtml")
+    let currentPage = window.location.pathname.split("/").pop();
+
+    // If homepage loads without filename, treat as index.shtml
+    if (currentPage === "" || currentPage === "/") {
+        currentPage = "index.shtml";
+    }
+
+    // Select all navigation links
+    const links = document.querySelectorAll(".navigation li a");
+
+    links.forEach(link => {
+        const linkPage = link.getAttribute("href");
+
+        if (linkPage === currentPage) {
+            // Add 'current' to <li>
+            link.parentElement.classList.add("current");
+        }
+    });
+});
+</script>
